@@ -1,10 +1,6 @@
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-
-splitter_1 = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=0, length_function=len,
-                                            separators=["\\.\\d", "\\d\\."], is_separator_regex=True)
-splitter_2 = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=0, length_function=len,
-                                            separators=[], is_separator_regex=True)
+from AI import AI
 
 
 def english_nums(text):
@@ -28,19 +24,189 @@ def english_nums(text):
     return text
 
 
-all_texts = []
+class Loader:
+    def __init__(self, file_name):
+        self.splitter = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=0, length_function=len,
+                                                       # separators=["\\(۵", "۵\\(", "\\(۱", "۱\\("],
+                                                       separators=["\\d\\.", "\\.\\d"],
+                                                       is_separator_regex=True)
+        self.all_texts = []
+        self.ai = AI()
+        self.file_path = "Data/Problems/{name}.pdf"
+        self.file_name = file_name
+        self.loader = PyPDFLoader(self.file_path.format(name=self.file_name))
+        self.pages = self.loader.load()
 
-loader = PyPDFLoader("Data/Problems/1390.pdf")
-pages = loader.load()
-for page in pages:
-    content = page.page_content
-    # content = english_nums(content)
-    split_text = splitter_1.split_text(content)
-    all_texts.append(split_text[1:])
-    for s in split_text[1:]:
-        print(s)
-        print("-----------------------------------------")
-        # for t in splitter_2.split_text(s):
-        #     split_text.append(t)
+    def do_translation(self):
+        f = open("Translation/{name}.tex".format(name=self.file_name), "w")
+        for i in range(0, len(self.all_texts)):
+            print(self.ai.translate(self.all_texts[i]), file=f)
+            print("\\\\", file=f)
 
-# print(split_text[0])
+    def load_and_split(self):
+        pass
+
+
+class Loader1(Loader):
+
+    def load_and_split(self):
+        i = 0
+        for page in self.pages[1:]:
+            content = page.page_content
+            split_text = self.splitter.split_text(content)
+            for s in split_text[1:]:
+                self.all_texts.append(s)
+                print(s)
+                print("-----------------------------------------" + str(i))
+                i += 1
+
+
+class Loader1390(Loader):
+    def load_and_split(self):
+        for page in self.pages:
+            content = page.page_content
+            split_text = self.splitter.split_text(content)
+            for s in split_text[1:]:
+                self.all_texts.append(s)
+                print(s)
+                print("-----------------------------------------")
+        self.all_texts[8] += self.all_texts[9]
+        self.all_texts.pop(9)
+        print(self.all_texts[8], self.all_texts[9])
+
+
+class Loader1392(Loader):
+    def load_and_split(self):
+        i = 0
+        for page in self.pages:
+            content = page.page_content
+            split_text = self.splitter.split_text(content)
+            for s in split_text:
+                self.all_texts.append(s)
+        self.all_texts[0] = """های رياضيات، ادبيات و فيزيک سه سال دبيرستان ( ۹ 􀀁 کردن کتاب 􀀁 خواهد برای دوره 􀀁 ۱. سينا می
+ها مطالعه شود (برای 􀀁 های هر مبحث به ترتيب پاية آن 􀀁 نحوی که کتاب 􀀁 ريزی کند به 􀀁 کتاب) برنامه
+تواند 􀀁 مثال کتاب فيزيک ۱ پيشاز کتاب فيزيک ۲ مطالعه شود). او به چند ترتيب مختلف می
+ها را مطالعه کند؟ 􀀁 همة کتاب"""
+        self.all_texts[1] = """قدر است؟ 􀀁 چه x۶ + y . مقدار ۶ x۲ + y۲ = و ۴۰ x + y = دو عدد حقيقی هستند که ۶ y و x"""
+        self.all_texts[2] = """BC و AD های اضلاع 􀀁 به ترتيب وسط N و M رو 􀀁 در شکل روبه
+هستند. مساحت مستطيل چه مضربی از ABCD از مستطيل
+چهارضلعی هاشورخورده است؟"""
+        self.all_texts[3] = """به شکل رو به رو f : R ! R فرض کنيد نمودار تابع
+شبيه کدام يک f(x)
+x 􀀀 باشد. در اين صورت نمودار تابع ۱
+ها در نقطة 􀀁 های زير است؟ (نمودارهای همة گزينه 􀀁 از گزينه
+تعريف نشده هستند.) x = ۱"""
+        self.all_texts[4] = """عليه مثبت داشته باشد و برابر 􀀁 ناميم، هرگاه حداقل سه مقسوم 􀀁 ۵. يک عدد طبيعی را کوچولو می
+عليه مثبتش باشد. چند عدد کوچولو وجود دارد؟ 􀀁 ترين سه مقسوم 􀀁 مجموع کوچک"""
+        self.all_texts[5] = """و CdAD ، BdAD های 􀀁 ای قرار گرفته که زاويه 􀀁 به گونه BC روی ضلع D نقطة ABC ۶. در مثلث
+AB به ترتيب برابر ۱ و ۲ است. طول DC و BD های 􀀁 خط 􀀁 با هم برابرند و طول پاره AdBC
+p قدر است؟ 􀀁 چ"""
+        self.all_texts[6] = """از اعداد طبيعی به صورت زير تعريف شده است: a۰; a۱; a۲; : : : ۷. دنبالة 8<
+:
+a۰ = ۱;
+an+۱ = ۱۳an (n  ۰):
+چه عددی است؟ a رقم يکان ۱۳۹۲"""
+        self.all_texts[7] = """در مورد اعداد زير کدام گزينه درست است؟
+a = ۱۰۰!; b = ۲۱۰۰; c = ۲۲۲۲۲"""
+        self.all_texts[8] = """واهيم با سه رنگ آبی، قرمز و سبز، هفت ناحية درون شکل 􀀁 می
+های همسايه 􀀁 آميزی کنيم، به طوری که ناحيه 􀀁 رو را رنگ 􀀁 به 􀀁 رو
+هايی که فقط در يک نقطه 􀀁 باشند (ناحيه 􀀁 های متفاوتی داشته 􀀁 رنگ
+اشتراک دارند همسايه نيستند). اين کار به چند طريق ممکن
+است؟"""
+        self.all_texts[9] = """۲۱۹ متر بين زاهدان و مشهد احداث کرده = ۵۲۴; ۱۰ . وزارت راه و ترابری آزادراهی به طول ۲۸۸
+های روشنايی کند. در 􀀁􀀁 است و قصد دارد در يک پروژة بلندمدت اين آزادراه را مجهز به چراغ
+ترين قطعه 􀀁 راه که هيچ چراغی در آن نيست، نزديک 􀀁 هايی از آزاد 􀀁 ترين قطعه 􀀁 هر روز از بين بزرگ
+شود. هزار و يکمين چراغی که 􀀁 به زاهدان انتخاب شده و در نقطة وسط آن يک چراغ نصب می
+شود، چند متر با مشهد فاصله دارد؟ 􀀁 نصب می"""
+        self.all_texts[10] = """گر با قابليتنمايشاعداد خيلی بزرگ 􀀁 حساب))، ماشينی استکه از يکصفحة نمايش 􀀁 ۱۱ . ((ضربين
+حساب 􀀁 ، ضربين 􀀁 های ۱ الی ۹ تشکيل شده است. با فشار دادن هر دکمه 􀀁 هايی با شماره 􀀁 و دکمه
+کند و حاصل را به 􀀁 گر را در عدد مربوط به آن دکمه ضرب می 􀀁 بلافاصله عدد صفحة نمايش
+گر نوشته شده 􀀁 دهد. اگر ابتدا عدد ۱ روی صفحة نمايش 􀀁 نمايش می 􀀁 جای عدد قبلی در صفحه
+های 􀀁 کم چند بار بايد از دکمه 􀀁 ۲۲۰۱۴ دست  ۳۱۴۳۵  باشد، برای به دست آوردن عدد ۵۱۳۹۲
+حساب 􀀁 های ضربين 􀀁 توان با سه بار استفاده از دکمه 􀀁 حساب استفاده کرد؟ (برای مثال می 􀀁 ضربين
+(.۷۲۹ = ۹  ۹  به ۷۲۹ دست يافت، زيرا ۹"""
+        self.all_texts[11] = """توان يک مکعب ساخت؟ 􀀁 ها می 􀀁 چين 􀀁 های زير از روی خط 􀀁 ۱۲ . با تا کردن چند تا از شکل"""
+        self.all_texts[12] = """کيفيت آزمون مرحلة اول سال گذشته به www:mathysc:ir گاه المپياد رياضی ايران ( 􀀁 ۱۳ . در وب
+اند از ((خيلی خوب بود.))، ((عالی 􀀁 های نظرسنجی عبارت 􀀁 است. گزينه 􀀁 نظرسنجی گذاشته شده
+گاه ثبت کند، درصد 􀀁 شد.))! پيشاز اين که عباسنظر خود را در وب 􀀁 تر از اين نمی 􀀁 بود.)) و ((به
+، ها به ترتيب برابر ۵۰ ،۲۵ و ۲۵ بوده است. پس از ثبت نظر او اين نسبت به ۲۴ 􀀁 اين گزينه
+قدر بوده است؟ 􀀁 کند. تعداد نظرهای ثبت شده پيش از ثبت نظر عباس چه 􀀁 ۴۸ و ۲۸ تغيير می
+ها دقيق هستند.) 􀀁 (درصد"""
+        self.all_texts[13] = """.p۲􀀀pq+q۲ = ها داشته باشيم ۳۷۲ 􀀁 از اعداد اول وجود دارد که برای آن (p; q) ۱۴ . چند زوج مرتب"""
+        self.all_texts[14] = """ليه مثبت است، چند عامل اول دارد؟ 􀀁 ترين عدد طبيعی که دارای ۱۳۹۲ مقسوم 􀀁 ۱۵ . کوچک"""
+        self.all_texts[15] = """چوپانی گوسفند گرسنة خود را در چراگاهی سرسبز با سه طناب مختلف به سه درخت بسته
+خورد. 􀀁 رسی دارد را می 􀀁 هايی از چراگاه که به آن دست 􀀁 های همة قسمت 􀀁 است. گوسفند علف
+تواند باشد؟ 􀀁 است، کدام شکل نمی 􀀁 های آن را خورده 􀀁 ای از چراگاه که گوسفند علف 􀀁 ناحيه"""
+        self.all_texts[16] = """در يک پادگان ۱۱۹۶ سرباز در ۱۳ رديف ۹۲ تايی به شکل منظم
+بيند اگر روی 􀀁 اند. آخرين سرباز از رديف آخر يکسرباز را می 􀀁 ايستاده
+ها، سرباز ديگری نباشد. او چند سرباز از رديف 􀀁 خط واصل بين آن
+کنيم.) 􀀁 بيند؟ (سربازها را نقطه فرض می 􀀁 اول را"""
+        self.all_texts[17] = """رو خطوطی موازی اضلاع مثلث 􀀁 مطابق شکل روبه
+ايجاد شود، A ′B ′C ايم تا مثلث ′ 􀀁 رسم کرده ABC
+باشد. ABC ای که محيطش نصف محيط 􀀁 به گونه
+است؟ AD چند برابر طول AB طول"""
+        self.all_texts[18] = """y و x ها اعداد حقيقی 􀀁 گيريم که برای آن 􀀁 می a را مجموعة همة اعداد حقيقی مثل S ۱۹ . مجموعة
+ای که 􀀁 موجود باشند، به گونه
+a(a 􀀀 ۱) + x(x 􀀀 ۱) + y(y 􀀀 ۱) = ۳
+۲
+قدر است؟ 􀀁 است. طول اين بازه چه 􀀁 يک بازه S دانيم که 􀀁 م"""
+        self.all_texts[19] = """های زير است. 􀀁 ۲۰ . تصوير عمود يک چهارضلعی مسطح در فضا روی سه صفحة مختصات به شکل
+قدر است؟ 􀀁 های طول قطرهای اين چهارضلعی چه 􀀁 مجموع مرب"""
+        self.all_texts[20] = """شود که در معادلات زير صدق کند؟ 􀀁 از اعداد حقيقی يافت می (x; y; z; t) ۲۱ . چند چهارتايی مرتب 8>>>>>><
+>>>>>>:
+xy + yz + zx = t۲
+yz + zt + ty = x۲
+zt + tx + xz = y۲
+tx + xy + yt = z۲"""
+        self.all_texts[21] = """وزارت نفت کانالی بين بوشهر و ايلام حفر کرده است و قصد
+دارد لولة انتقال گازی را در آن قرار دهد. سطح مقطع کانال
+به شکل قسمتی از يک سهمی و سطح مقطع لوله به شکل
+ای􀀁 يک دايره است. (منظور از سهمی نمودار يک چندجمله
+درجه دوم است.) اگر عرض کانال برابر ۲ متر و عمق آن
+توان در کانال 􀀁 ای که می 􀀁 ترين لوله 􀀁 ۴ متر باشد، شعاع بزرگ
+ترين نقطة کانال تماس داشته 􀀁 قرار داد به طوری که با پايين
+ها در شکل صحيح 􀀁 متر است؟ (نسبت اندازه 􀀁 باشد، چند سانتی
+نيست.)"""
+        self.all_texts[22] = """های 􀀁 است. خطی که وسط
+p
+به ترتيب ۲ و ۴ و ۷ ABC از مثلث BC و AC ،AB ۲۳ . طول اضلاع
+شود در نقطة 􀀁 رسم می A ساز 􀀁 موازی با نيم B کند با خطی که از 􀀁 را به هم وصل می AC و AB
+قدر است؟ 􀀁 چه AD کند. طول 􀀁 برخورد می D"""
+        self.all_texts[23] = """پهلوان پوريای ولی از ياور خواسته که ۹ ميل زورخانه را از نقاطی که با دايرة توخالی نمايش
+نحوی که مجموع فواصل ۹ جفت 􀀁 داده شده به نقاطی که با دايرة توپر نمايشداده شده ببرد، به
+ترين مقدار ممکن شود. (دقت کنيد که در هر نقطه يک ميل 􀀁 نقطة ابتدايی و انتهايی، بيش
+ترتيب بايد به کدام نقاط منتقل شوند؟ 􀀁 های الف و ب و ج به 􀀁 گيرد.) در اين صورت ميل 􀀁􀀁 قرار"""
+        self.all_texts[24] = """تنها دزد شکرستان از دو سال پيش تحت تعقيب نظمية شکرستان قرار دارد. طبق تحقيقات
+است، (برای مثال 􀀁 های او بين شکرستان و ۴ شهر همسايه به صورت زير بوده 􀀁 نظميه، تعداد سفر
+است). اکنون او در کدام شهر مخفی 􀀁 اين دزد سه سفر از نمکستان شرقی به شکرستان داشته
+است؟ 􀀁 شده
+۱"""
+        for s in self.all_texts[:25]:
+            print(s)
+            print("-----------------------------------------" + str(i))
+            i += 1
+        self.all_texts = self.all_texts[:25]
+
+
+class Loader1393(Loader):
+
+    def load_and_split(self):
+        i = 0
+        for page in self.pages:
+            content = page.page_content
+            split_text = self.splitter.split_text(content)
+            for s in split_text[1:]:
+                self.all_texts.append(s)
+            for s in self.all_texts:
+                print(s)
+                print("-----------------------------------------" + str(i))
+                i += 1
+
+# loader_1390 = Loader1390("1390")
+# loader_1391 = Loader1("1391")
+# loader_1392 = Loader1392("1392")
+# loader_1393 = Loader1393("1393")
+
+loader_1394 = Loader1393("1400")
+loader_1394.load_and_split()
+loader_1394.do_translation()
