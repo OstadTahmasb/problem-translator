@@ -40,7 +40,9 @@ class Loader:
     def do_translation(self):
         f = open("Translation/{name}.tex".format(name=self.file_name), "w")
         for i in range(0, len(self.all_texts)):
-            print(self.ai.translate(self.all_texts[i]), file=f)
+            text = self.ai.translate(self.all_texts[i]),
+            print(text, file=f)
+            print(text)
             print("\\\\", file=f)
 
     def load_and_split(self):
@@ -415,6 +417,14 @@ DH 
 2""",
         ]
 
+class Loader1390_3(Loader):
+
+    def load_and_split(self):
+        f = open("data.txt", "r")
+        text = f.read()
+        text = text.replace('\x00', '')
+        self.all_texts = text.split("\"\"\"")
+
 class Loader1393(Loader):
 
     def load_and_split(self):
@@ -434,6 +444,6 @@ class Loader1393(Loader):
 # loader_1392 = Loader1392("1392")
 # loader_1393 = Loader1393("1393")
 
-loader_1394 = Loader1394("1393")
+loader_1394 = Loader1390_3("1393")
 loader_1394.load_and_split()
 loader_1394.do_translation()
