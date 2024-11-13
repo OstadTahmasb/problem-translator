@@ -1,0 +1,98 @@
+
+1. In a village with a population of 1000 people, 200 people have contracted a certain disease. A test can diagnose the disease, but it has an error rate, meaning it incorrectly identifies a sick person as healthy with a probability of 5\% and a healthy person as sick with a probability of 5\%. A person is randomly selected from the people of this village and tested. What is the probability that the person is declared sick?
+\\
+2. A factory packages its products in cubic boxes and in the warehouse, every 512 boxes are connected together in the shape of a cube $8 \times 8 \times 8$. When the air temperature exceeds a certain limit, it is necessary to separate this set of 212 boxes with horizontal and vertical planes so that each box has at least one face that is not in contact with the faces of other boxes. What is the minimum number of planes required to achieve such a situation?
+\\
+3. How many eight-digit numbers in base four, using the digits 1, 2, and 3, are divisible by 3?
+\\
+4. We have five points in the plane, no three of which are collinear. We have drawn all the line segments whose endpoints are these points. What is the minimum number of new points created at the intersections of these line segments?\\
+1) 0 \quad 2) 1 \quad 3) 2 \quad 4) 1 \quad 5) 5
+\\
+5. There are 128 chairs arranged in a circle around a traditional gym. The first spectator who enters the gym sits on chair number 1. Since a cold is spreading in the city, each person who enters sits on a chair that is as far away as possible from the nearest occupied chair. If there are multiple chairs with this property, they choose the one with the smallest number. On which chair does the 39-th person sit?
+\\
+6. A natural number $n$, is the smallest number such that the remainder of $3n + 45$ divided by $1060$ is $16$. What is the remainder of $17 + 18n$ divided by $1920$?
+\\
+7. What is the area enclosed between the graph of the function 
+$y = \lfloor 10x \rfloor + \sqrt{1-x^2}$ in the interval $[0, 1]$ and the x-axis? (By $\lfloor t \rfloor$, we mean the greatest integer less than or equal to $t$.)
+\\
+8. The main number of a car license plate consists of a two-digit number on the left, one of the alphabet letters in the middle, and a three-digit number on the right. The digit zero is not used in these two numbers. To each plate, we assign the product of the two numbers mentioned. For example, to the plate $12b365$, we assign the number $12 \times 365 = 4380$. What is the average of the numbers assigned to all possible plates?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1396/8.png}
+    \caption{Caption}
+    \label{fig:1396:8}
+\end{figure}
+\\
+9. A section of the Litian forest park, located between two roads, has caught fire. The fire spreads at a speed of 10 kilometers per hour. If the distance from the starting point of the fire to each of the two roads is 10 kilometers, what is the area of the burned region in square kilometers after 2 hours? (Consider the roads as long, straight, and parallel lines, and assume the fire does not cross the roads).\\
+1) \(200 \sqrt{3}\) 
+2) \(100 \sqrt{3}\) 
+3) \(400 \sqrt{3} + 400 \frac{\pi}{3}\) 
+4) \(200 \sqrt{3} + 400 \frac{\pi}{3}\) 
+5) \(400 \sqrt{3}\) 
+\\
+10. Consider triangle $ABC$  where  $AB = AC = 15$  and  $BC = 18$.  Choose points  $D$  and  $E$  on  $CA$  and  $CB$  respectively such that  $CD = 5$  and  $CE = 3$.  Consider point  $F$  on the ray  $DE$  such that  $EF = 8$.  Let  $M$  be the midpoint of  $AB$  and  $N$  be the intersection of  $FM$  with  $BC$.  What is the length of  $CN$?
+\\
+11. According to the regulations, buildings on one side of a street should not have more than 9 floors. Additionally, if the number of floors of two buildings, regardless of the distance between them, is the same, there must be a building with more floors than those two between them. What is the maximum number of buildings that can be constructed on one side of the street?
+\\
+12. How many triples $(a, b, c)$ of natural numbers strictly less than 51 do we have such that $a+b+c$ is divisible by $a$, $b$, and $c$?
+\\
+13. A person wants to build an area next to the garden wall to keep his chickens and roosters. He has three fences, each 10 meters long. Using the garden wall, which is straight and long, and these three fences, what is the maximum area he can enclose in square meters?\\
+1) $100$ \quad 
+2) $50+25\sqrt{3}$ \quad 
+3) $50+50\sqrt{2}$ \quad 
+4) $75\sqrt{3}$ \quad 
+5) $300$
+\\
+14. For how many integer values of  k  does the following system of equations have a non-zero solution  $(a, b, c)$  in real numbers?
+\[
+\begin{cases}
+    b^2 + kc = a^2 + b\\
+    b^2 + c = ka^2 + b + c\\
+    c^2 + a = kb^2 + c\\
+\end{cases}
+\]
+1) $0$ \quad 2) $1$ \quad 3) $2$ \quad 4) $3$ \quad 5) infinity.
+\\
+15. Suppose $a_1, a_2, \ldots, a_{20}$ are the numbers from 1 to 20 written in an arbitrary order. How many different values can the expression $a_1 - a_2 + a_3 - \cdots + a_{20}$ take?
+\\
+16. A subset of real numbers has the property that for any two distinct members of it, such as $x$ and $y$, we have 
+$(x+y-1)^2 = xy + 1$.
+What is the maximum number of members this set can have?\\
+1) 1 2) 2 3) 3 4) 4 5) Infinity.
+\\
+17. Two natural numbers $m$ and $n$ are less than 500, and 
+$[m, n] = (m - n)^2$. What is the maximum value of $m + n$? ($[m, n]$ is the least common multiple of $m$ and $n$)
+\\
+18. Three rods with lengths 1396, 1439, and 2018 millimeters are placed on the ground joined at one end. What is the minimum possible radius of a circle that passes through the other three ends of the rods, in millimeters?
+\\
+19. Suppose $x\ge y \ge z$ are positive real numbers such that 
+$$x^2 + y^2 + z^2 \ge 2xy + 2yz + 2zx$$
+What is the minimum value of $\frac{x}{z}$?\\
+1) $\sqrt{1}$ 2) $\sqrt{2}$ 3) $\sqrt{3}$ 4) $\sqrt{2}$ 5) $\sqrt{4}$
+\\
+20. In the cyclic quadrilateral $ABCD$, we have $\angle B = 110^\circ$. Let $E$ be the intersection of $AD$ and $BC$, and $F$ be the intersection of $AB$ and $CD$. If the perpendiculars from $E$ to $AB$ and from $F$ to $BC$ intersect each other on the circumcircle of the quadrilateral at point $P$, what is the measure of angle $\angle PDF$ in degrees?
+\\
+21. Point $P$ is an interior point of an equilateral triangle $ABC$ and is located on side $AB$. We denote the reflection of $P$ with respect to $AB$ as $K$, the reflection of $K$ with respect to $BC$ as $M$, and the reflection of $M$ with respect to $AC$ as $N$. What is the maximum length of $NP$?\\
+1) $2\sqrt{3}$ \quad 
+2) $\sqrt{3}$ \quad 
+3) $\frac{\sqrt{3}}{2}$ \quad 
+4) $3$ \quad 
+5) $1$
+\\
+22. We have eight identical tiles, each consisting of one red square and one blue square. In how many ways can a $4 \times 4$ area be covered with these tiles such that each row and each column contains two red squares and two blue squares?
+\\
+23. Parvaneh bought a compass and after opening its package, she noticed that the length of the needle rod is 10 centimeters and the length of the pencil rod is 10 centimeters! Assume that in order to draw a circle with this compass, the angle of the pencil with the paper must be at least 30 degrees, but the needle can have any angle with the paper surface. The difference between the radius of the largest circle and the radius of the smallest circle that can be drawn with this compass, in centimeters, is closest to which option?\\
+1) 6 \quad 2) 7 \quad 3) 10 \quad 4) 12 \quad 5) 20
+\\
+24. The sequence $\{a_n\}$ is defined by the following formula: 
+$$a_n = \sqrt{1+(1+\frac{1}{n})^2} + \sqrt{1+(1-\frac{1}{n})^2}$$
+What is the value of the following expression? 
+$$\frac{4}{a_1} + \frac{4}{a_2} + \cdots + \frac{4}{a_{96}}$$
+1) $\sqrt{18241}$ \quad 
+2) $\sqrt{18625} - 1$ \quad 
+3) $\sqrt{18625}$ \quad 
+4) $\sqrt{19013} - 1$ \quad 
+5) $\sqrt{19013}$
+\\
+25. Scientists have discovered a small planet with a radius of 30 kilometers, entirely covered with water. A spherical meteorite collides with this planet and completely sinks into the water, causing the water level on the planet's surface to increase by one centimeter. What is the radius of the meteorite in meters?
+\\

@@ -1,0 +1,119 @@
+
+1. How many integers are included in the domain of the following function?  
+\[ f(x) = \sqrt[4]{-1 + \sqrt[3]{-1 + \sqrt{\frac{12}{x^2 - 2x}}}} \]
+\\
+2. We have 1397 real numbers that form an arithmetic progression. If we denote the number of rational numbers among these 1397 numbers by $n$, how many different possible values can $n$ take?
+\\
+3. What is the sum of the digits of the number 
+$99\ldots9_{\text{(97 times)}} \times 66\ldots6_{\text{(97 times)}}$?
+\\
+4. We want to tile a $3 \times 3$ grid using the two types of tiles below, such that a black path does not form from one side of the grid to the opposite side. How many desirable tiling configurations are there?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/4.png}
+    \caption{Caption}
+    \label{fig:1397:4}
+\end{figure}\\
+1) 338 \quad 2) 174 \quad 3) 169 \quad 4) 343 \quad 5) 512
+\\
+5. How many two-digit natural numbers do we have that do not contain the digit zero and are divisible by both of their digits?
+\\
+6. In the figure below, the intersection of $EB$ with $AC$ is called $G$. The angle between the extensions of line segments $AE$ and $BD$ is $70$ degrees, and the angle between the extensions of line segments $DA$ and $CB$ is $10$ degrees. If the angles $\angle AGB$ and $\angle BKE$ are $95$ and $70$ degrees respectively, find the value of $x$.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/6.png}
+    \caption{Caption}
+    \label{fig:1397:6}
+\end{figure}
+\\
+7. In how many permutations $a_1, a_2, \ldots, a_{13}$ of the numbers 1 to 13 do the following conditions hold?
+\[ a_1, a_2 < a_3 \]
+\[ a_4, a_5 < a_6 \]
+\[ a_3, a_6 < a_7 \]
+\[ a_7 < a_8, a_9 \]
+\[ a_8 < a_{10}, a_{11} \]
+\[ a_9 < a_{12}, a_{13} \]
+\\
+8. In triangle $ABC$, consider point $M$ on side $AC$ such that $CM = 2AM$. The internal angle bisector of $\angle A$ intersects line segment $BC$ at point $D$. Assume that $AD$ is perpendicular to line $BM$. How many times is the area of triangle $ABC$ compared to the area of triangle $BMD$?
+\\
+9. How many solutions does the following equation have in the set of real numbers? (The integer part of the number $x$ is denoted by $[x]$.)  
+$$[x](x-1)=2|x|$$  
+1) 2 \quad 2) 3 \quad 3) 4 \quad 4) 5 \quad 5) Infinite
+\\
+10. We have $n$ natural numbers such that the difference between any two of them is a prime number. What is the maximum value of $n$?
+\\
+11. The vertices of a pentagon (convex or concave) with an area of 7 are located on points with integer coordinates in the coordinate plane. What is the maximum number of points with integer coordinates that can be inside this polygon? (Points on the boundary are not considered interior points.)\\
+1) 6 \quad 2) 2 \quad 3) 3 \quad 4) 4 \quad 5) 5
+\\
+12. From the set $\{1, 2, \ldots, 765\}$, what is the maximum number of elements that can be selected such that none of them are perfect squares and the sum of no two of them equals 765? 
+\\
+13. For how many values of $a$ from the set $\left\{-\frac{5}{5}, -\frac{4}{5}, \ldots, \frac{4}{5}, \frac{5}{5}\right\}$ is the function $f(x) = ax - \lfloor x \rfloor$ one-to-one?
+\\
+14. If $S(n)$ is the sum of the digits of the number $n$, and $P(n)$ is the product of the digits of $n$, how many different natural numbers $n$ can be found such that: 
+\[ S(n) + P(n) = n \]
+\\
+15. In the rectangle shown, \( M \) is the midpoint of side \( AD \). Consider a circle inside the rectangle such that it is tangent to the line segments \( BC \), \( DC \), and \( MB \). Let the point of tangency with the line segment \( MB \) be called \( P \). If \( MP = AD \), what is the ratio of the length to the width of the rectangle?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/15.png}
+    \caption{Caption}
+    \label{fig:1397:15}
+\end{figure}\\
+1) \(\frac{5}{4}\) \quad 2) 2 \quad 3) \(\frac{3}{2}\) \quad 4) \(\frac{5}{2}\) \quad 5) 3
+\\
+16. In a security operation, 5 people have been arrested. Some of them are guilty and some are innocent. We know that guilty individuals always lie and innocent individuals always tell the truth. If these 5 people have said the following statements, how many guilty individuals are there exactly?
+\begin{itemize}
+    \item First person: At least two of us are innocent.
+    \item Second person: At least two of us are guilty.
+    \item Third person: Everyone is innocent.
+    \item Fourth person: Exactly one of us is guilty.
+    \item Fifth person: Exactly one of us is innocent.
+\end{itemize}
+1) 1 \quad 2) 2 \quad 3) 3 \quad 4) 4 \quad 5) 5
+\\
+17. The figure shown is part of the graph of which of the following options?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/17.png}
+    \caption{Caption}
+    \label{fig:1397:17}
+\end{figure}\\
+1) $x^x$ \quad 
+2) $(\cos(x))^x$ \quad 
+3) $(\sin(x))^x$ \quad 
+4) $(\sin(x))^{\sin x}$ \quad 
+5) $x^{\sin(x)}$
+\\
+18. In the right triangle $ABC$, angle $B$ is a right angle, and points $M$ and $N$ are chosen on segments $AC$ and $AB$, respectively, such that $MN$ is perpendicular to $AC$. The intersection of the extension of $MN$ with the extension of side $BC$ is called $P$. It is known that $PN$ is equal to $MN$. Suppose $O$ is the midpoint of side $AC$. If the lengths of $MN$ and $ON$ are 20 and 21 centimeters, respectively, find the length of the hypotenuse of the right triangle $ABC$.
+\\
+19. How many sequences of natural numbers, such as $(a_n)_{n \in \mathbb{N}}$, exist that have both of the following properties?
+\begin{itemize}
+    \item $a_{n+1} = \frac{a_{n}^2}{a_{n-1}} \quad (n \geq 2)$
+    \item $a_3 = 54000$
+\end{itemize}
+20. In the combinatorics class, Ava wrote all the non-empty subsets of the set $\{1, 2, \ldots, 1397\}$. She then replaces each subset with the average of its elements. What is the average of the numbers written on the board?
+\\
+21. How many ordered pairs of real numbers $(a, b)$ exist such that: 
+\[
+\begin{cases} 
+(a+b)^3 = 2(a-b) \\
+3(a-b)^2 = 4ab 
+\end{cases}
+\]
+
+1) 0 \quad 2) 1 \quad 3) 2 \quad 4) 3 \quad 5) Infinite
+\\
+22. Inside the isosceles triangle $ABC$ ($AB = AC$), point $P$ is given. The feet of the perpendiculars from $P$ to the sides $AB$, $AC$, and $BC$ are denoted by $X$, $Y$, and $Z$, respectively. We know that the measures of angles $\angle BAC$ and $\angle XZY$ are $40^\circ$ and $70^\circ$, respectively. If $PX = 2PY = 4$, what is the length of $PZ$?\\
+1) \(\sqrt{3}\) \quad 
+2) \(\sqrt{2}\) \quad 
+3) 2 \quad 
+4) \(\sqrt{6}\) \quad 
+5) \(2\sqrt{2}\)
+\\
+23. The Faculty of Mathematical Sciences at Shekarestan University has a number of professors who are numbered 1, 2, 3, and so on, in alphabetical order. The dean of the faculty has asked the professors to create a code for themselves consisting of the first four numbers. Professor number $n$ should consider the numbers $n+1$, $n+2$, $n+3$, and $n+4$, and then replace each of these four numbers with one of its prime factors at will. For example, if a professor's number is 53, they should consider the numbers 54, 55, 56, and 57, and they can choose this code: 3, 5, 7, and 3 (they have other choices as well). We know that no matter how the professors choose their codes, no two professors will have the same code. What is the maximum number of professors this faculty can have?
+\\
+24. For real numbers \( a \) and \( b \), we know \( a \in [0,3] \) and \( b \in [1,2] \). We denote the minimum and maximum values of the expression \( a^2 - ab + b^2 \) as \( m \) and \( M \), respectively. What is the integer part of \( [4(M-m)] \)?
+\\
+25. How many increasing functions $f: \{1,2,3,4,5,6\} \to \{1,2,3,4,5,6\}$ do we have, such that for each $1 \leq i \leq 6$ we have $$|f(i) - i| \leq 1$$
+1) 144 \quad 2) 164 \quad 3) 89 \quad 4) 324 \quad 5) 128
+\\

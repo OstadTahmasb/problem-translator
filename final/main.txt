@@ -1,0 +1,2066 @@
+
+\section{1390}
+1. Suppose $a$, $b$, and $c$ are natural numbers such that $ac = 2012$, the greatest common divisor of $a$ and $b$ is equal to 1, the least common multiple of $b$ and $c$ is 1390. What is the value of $a + b + c$?
+\\
+2. There are three cities, Namakstan, Samaghstan, and felfelstan, which are directly connected to shekarstan by a railway line. A traveler starts their journey from Namakstan and has 12 ticket that allows them to use all the train routes. If they want to enter Samaghstan exactly once during their journey, in how many ways can they complete their journey? Note that there is no direct route between Namakstan, Samaghstan and Felfelstan.
+\\
+3. What is the maximum possible value of $3ab+4bc$ which $a$, $b$, and $c$ are nonnegetive real numbers and $a+b+c = 30$?
+\\
+4. In how many ways can the expression $1 \pm 2 \pm \cdots 7$ be determined such that the result is positive?
+\\
+5. On both sides of the main street of the city, eighteen streetlights are installed in two rows of nine, facing each other. The distance between two consecutive streetlights is 50 meters, and the width of the street is 10 meters. Some of the streetlights are turned off, but at a distance of less than 60 meters from each turned-off streetlight, there are at most three other turned-off streetlights. What is the maximum number of turned-off streetlights?
+\\
+6. Six points are located on a circle, and by drawing some tangent lines and connecting lines, angles are formed. If the angles \( \hat{A}, \hat{B}, \hat{C}, \hat{D}, \hat{E} \) are respectively equal to \( 4^\circ, 7^\circ, 10^\circ, 13^\circ, 16^\circ \), find the measure of angle \( \hat{XYZ} \) in degrees. If the answer is not an integer, write its integer part.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1390/6.png}
+    \caption{Caption}
+    \label{fig:1390:6}
+\end{figure}
+7. Suppose $a$ and $b$ are natural numbers such that the number of positive divisors of $a$, $b$, and $ab$ are 3, 4, and 8, respectively. How many positive divisors does $b^2$ have?
+\\
+8. In how many ways can you place 4 pieces on a $4 \times 4$ board such that there is exactly one piece in each row and each column?
+\\
+9. In triangle $ABC$, $\angle BAC = 60^\circ$, $AB = 7\sqrt{3}$, and $AC = 14\sqrt{3}$. Let $X$ be a variable point on segment $BC$. From point $X$, draw two lines parallel to $AB$ and $AC$ that intersect $AC$ and $AB$ at points $Y$ and $Z$, respectively. What is the length of segment $BX$ so that segment $YZ$ have the smallest possible lenght? 
+\\
+10. The polynomial $P(x)$ is equal to the sum of $x^n$ for $1 \leq n \leq 120$ where $n$ is divisible by number 2 or 3 or both of them. How many distinct real roots does this polynomial have?
+\\
+11. A solid in the shape of a rectangular prism with a base of $6 \times 4$ and a height of 3 is placed. Point $A$ is located on base on an edge with lenght 6. The solid is rotated around the opposite edge of where A is, for a complete turn. How much distance does point $A$ travel in space in the same direction? 
+(a) $3\pi$ \quad (b) $4\pi$ \quad (c) $6\pi$ \quad (d) $8\pi$ \quad (e) $12\pi$
+\\
+12. Consider the three sets $A$, $B$, and $C$. Which option represents the set of elements that belong to at least two of these three sets?
+
+a) $(A \cup B \cup C) - (A \cap B \cap C)$
+
+b) $A \cup B \cup C \cup (A \cap B \cap C)$
+
+c) $(A \cap B) \cup (B \cap C) \cup (A \cap C)$
+
+d) $(A \cup B) \cap (B \cup C) \cap (A \cup C)$
+
+e) Both options c and d are correct.
+\\
+13. In how many ways can the set $\{1, 2, \ldots, 30\}$ be divided into two parts such that the product of the elements in one part is equal to the product of the elements in the other part? 
+
+A) This is not possible. 
+
+B) Between 1 and 10 ways. 
+
+C) Between 11 and 100 ways. 
+
+D) More than 100 ways.
+
+E) More than 1000 ways.
+\\
+14. In the isosceles right triangle $ABC$ with the right angle at vertex $A$ and leg length $10$, point $D$ is chosen so that $A$ is a point inside the triangle $BCD$. Lines $BD$ and $CD$ are drawn to intersect the inner bisectors of $B\hat{A}D$ and $C\hat{A}D$ at points $E$ and $F$, respectively. If the centroid of triangle $BCD$ lies on segment $EF$, what is the length of segment $AD$? 
+
+(a) $10$ \quad (b) $15$ \quad (c) $20$ \quad (d) $30$ \quad (e) It depends on the location of $D$
+\\
+15. Consider the polynomial $x^4 - x^2 - 2x - 1$. What is the shape of the set of $x$ values for which this polynomial is non-negative? 
+
+(a) A line segment 
+
+(b) Two line segments 
+
+(c) A ray and a line segment
+ 
+(d) A line segment and two rays 
+
+(e) Two rays
+\\
+16. In how many ways can two natural numbers $a$ and $b$ be chosen from the numbers 1 to 10 such that the fraction $\frac{a+b}{a-b}$ is a natural number? 
+
+(A) 19 (B) 24 (C) 28 (D) 29 (E) 34
+\\
+17. Consider several wooden pieces of length 1 meter and $\sqrt{2}$ meter that are hinged together to form the four shapes below. How many of these shapes can freely rotate around the hinges in the plane such that the wooden pieces can change shape by moving the pieces?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1390/17.png}
+    \caption{Caption}
+    \label{fig:1390:17}
+\end{figure}
+\\
+(A) None (B) 1 (C) 2 (D) 3 (E) 4
+\\
+18. The set of points in the plane that have a representation in the form $(x^2 + y^2, xy)$  where $x$ and $y$ are real numbers, is which option? 
+(a)\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1390/18-1.png}
+    \caption{Caption}
+    \label{fig:1390:18-1}
+\end{figure}
+\\
+(b)\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1390/18-2.png}
+    \caption{Caption}
+    \label{fig:1390:18-2}
+\end{figure}
+\\
+(c)\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1390/18-3.png}
+    \caption{Caption}
+    \label{fig:1390:18-3}
+\end{figure}
+\\
+(d)\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1390/18-4.png}
+    \caption{Caption}
+    \label{fig:1390:18-4}
+\end{figure}
+\\
+(e)\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1390/18-5.png}
+    \caption{Caption}
+    \label{fig:1390:18-5}
+\end{figure}
+\\
+19. A frog and a grasshopper are located 2 meters apart. The frog moves towards the grasshopper on the ground, either 25 cm or 50 cm per second. The grasshopper jumps in the air towards the frog, either 25 cm or 50 cm per second. If these two meet on the ground, the frog will eat the grasshopper. In how many possible ways can the grasshopper be eaten?
+
+a) 8 \quad b) 17 \quad c) 18 \quad d) 24 \quad e) 23
+\\
+20. Suppose four lines are given in space such that two of them intersect, and except for those two, no other two lines among the four intersect or are parallel. What is the maximum number of lines that can exist intersecting all of these lines? 
+
+(a) 1 
+(b) 2 
+(c) 3 
+(d) Infinity.
+(e) No line can intersect all four.
+\\
+21. What is the largest integer $a$ such that for any two real numbers $x$ and $y$ for which 
+$xy^2 + 4x^2y + 5 = 0$ and $x > 0$, we will have $ax > y$?
+
+a) $-\sqrt[3]{80}$ b) $-4$ c) $0$ d) $4$ e) $\sqrt[3]{80}$
+\\
+22. In how many ways can three natural numbers $x$, $y$, and $z$ be chosen such that $x + y + 2z = xyz$?
+ 
+(a) 7 (b) 4 (c) 2 (d) 1 (e) Impossible.
+\\
+23. chickens lay eggs, and the restaurant manager will arrange a weekly program such that each day only one of the Nimroo, half-boiled or omelet dishes is served, and no two consecutive days have the same dish. In how many ways is this possible? (Note that the day after Friday is Saturday!)
+
+(A) 87 \quad (B) 84 \quad (C) 126 \quad (D) 168 \quad (E) 192
+\\
+24. How many ordered pairs $(x, y)$ of real numbers satisfy the system of equations:
+\[
+\begin{cases} 
+x^2 + y = xy^2 \\
+y^2 + x = yx^2 
+\end{cases}
+\]
+(A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
+\\
+25. Consider a non-convex quadrilateral $ABCD$ that is not circumscribed; that is, there does not exist a circle that is tangent to all four sides. Consider circles that are tangent to three sides of this quadrilateral. How many such circles are there that are completely inside the quadrilateral? 
+\\
+(A) Depending on the quadrilateral, sometimes two, sometimes three, and sometimes four.  
+(B) Sometimes two and sometimes three.  
+(C) sometimes two and sometimes one.
+(D) Always two.  
+(E) Always one.
+
+\section{1391}
+1. A statistician has conducted a census in Shakrestan. The relative frequency of the number of families is as follows:
+
+\[
+\begin{array}{c|c}
+\text{Number of people living in the family} & \text{Percentage} \\
+\hline
+2 & 10 \\
+3 & 30 \\
+4 & 30 \\
+5 & 10 \\
+6 & 20 \\
+\end{array}
+\]
+
+What percentage of people live in families with 2 members?
+\\
+2. What is the minimum value of $\frac{a^2}{b}$ in the set $$\{(a, b) | a, b \in \mathbb{R}, (a + 1)(b + 1) = ab, 0 \leq b\}$$?
+\\
+3. How many four-digit numbers are there with the digits 1, 2, 3, and 4, where no digits are repeated, and the sum of every two consecutive digits is divisible by 2 or 3 (or both)?
+\\
+4. In the isosceles trapezoid $ABCD$, the length of side $AB$ is $4$ and the lengths of the two legs $AD$ and $BC$ are equal to 2. The angle $\angle ABC$ is also equal to $120^\circ$. If $E$ is the intersection point of the two diagonals of the trapezoid, the ratio $\frac{BE}{DE}$ is equal to 
+
+(1) $\frac{\sqrt{2}}{2}$ 
+(2) $\sqrt{3} - 1$ 
+(3) $\frac{\sqrt{3}}{3}$ 
+(4) $\frac{5}{9}$ 
+(5) $\frac{2}{3}$ 
+\\
+5. How many times must we stamp a square stamp with dimensions $1 \times 1, 2 \times 2, 3 \times 3, 4 \times 4$, and $5 \times 5$ on a map, such that the entire map is colored, if the side of the square is one unit?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1391/5.png}
+    \caption{Caption}
+    \label{fig:1391:5}
+\end{figure}
+\\
+6. How many ordered pairs $(x, y)$ of real numbers satisfy the following system of equations?
+\[
+\begin{cases} 
+x^2y + xy^2 = 30 \\ 
+xy + x + y = 11
+\end{cases}
+\]
+\\
+7. At the moment when the Omid satellite is at an altitude of 256 kilometers from the farthest point on the satellite to the Earth's surface, what is distance to the farthest point in earth that it could see? Consider the Earth as a sphere with a radius of 6370 kilometers.
+\\
+8. How many quadruples $(a, b, c, d)$ of natural numbers satisfy the following relations?
+\begin{align*}
+a^b &= cd, \\
+b^c &= da, \\
+c^d &= ab, \\
+d^a &= bc.
+\end{align*}
+(1) 1
+(2) 2
+(3) 6
+(4) 8 
+(5) Infinity.
+\\
+9. In the figure shown, a piece is initially placed at square $S$. In each step, we can move it one square up, down, left, or right, without moving it out of the grid or into a black square. If we want to move the piece to square $E$ without passing through any square more than once, in how many different ways can this be done?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1391/9.png}
+    \caption{Caption}
+    \label{fig:1391:9}
+\end{figure}
+\\
+10. What is the maximum number of natural numbers that can be chosen from $1$ to $1931$ such that the product of any two of them is a perfect square?
+\\
+11. For two natural numbers $a$ and $b$, the operation $\oplus$ is defined as follows: $a \oplus b = a^b$. The operation $\otimes$ is also defined as follows:
+$$a \otimes b = (\cdots ((a\oplus a)\oplus a)\oplus \cdots \oplus a)$$
+where $a$ appears $b$ times on the right side of the expression. In this case, $a \otimes b$ is equal to:
+
+(1) $a^{a^{\cdot^{\cdot^{\cdot^{a}}}}}$
+
+(2) $b^a$
+
+(3) $a^{ab}$
+
+(4) $a^{a^{b-1}}$
+
+(5) $ab^{b^{a}}$
+\\
+12. In triangle $ABC$, the median from vertex $B$ and the vertex $C$ are perpendicular to each other. If the lengths of sides $AB$ and $AC$ are $19$ and $22$, respectively, what is the length of side $BC$?
+\\
+13. The Sultan of Sugarland intends to establish a five-city route between Sugarland and the northern world tours: Southern Saltland, Eastern Saltland, Western Saltland, and Back Saltland! (In the figure, Back Saltland is behind the globe!). Each city can only connect to the four nearby cities in a grid-like manner. In how many ways can a route be designed such that it starts and ends in Sugarland and passes through each of the other cities exactly once?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1391/13.png}
+    \caption{Caption}
+    \label{fig:1391:13}
+\end{figure}\\
+1) 16
+2) 20
+3) 32
+4) 40
+5) 48
+\\
+14. A function $f: \mathbb{R} \to \mathbb{R}$ is called $n$-valued if its range is a set with $n$ elements. If $f$ and $g$ are $n$-valued and $m$-valued functions, respectively, then the functions $f \circ g$, $f \times g$, $f+g$ and  are at most how many valued?
+
+(1) $\min(m, n)$, $mn$, and $mn$.
+
+(2) $\max(m, n)$, $m+n$, and $mn$.
+
+(3) $m+n$, $mn$, and $n^m$.
+
+(4) $mn$, $mn$, and $m+n$.
+
+(5) $mn$, $mn$, and $\max(m, n)$.
+\\
+15. In the right trapezoid $ABCD$, $\angle A = \angle D = 90^\circ$, and $M$ is the midpoint of side $BC$. Assume a circle with center $M$ and radius $MB$ intersects segment $AD$ at $X$ and $Y$. If the lengths of segments $AB = 1$, $BC = p$, $CD = q$, and $DA = r$, which of the following equations roots are the lengths of segments $AX$ and $AY$?
+
+1. $x^2 + px + q = 0$
+
+2. $x^2 - rx + q = 0$
+
+3. $x^2 - px + q = 0$
+
+4. $qx^2 + rx + p = 0$
+
+5. $px^2 - qx + r = 0$
+\\
+16. What is the number of fractions of $\frac{1}{90}, \frac{2}{90}, \ldots, \frac{90}{90}$ which sum of the numerators and denominators of them are divisible by 3, after simplification?
+\\
+17. In a life game, each cell can contain any number of charges. Each hour, each charge is divided into four charges, and each is moved to one of the four adjacent cells. If initially there is only one charge, after six hours, how many charges will there be in the cell which have exactly one point common with the first cell? (Assume that the grid is such that each cell shares a vertex with the initial cell, and after one hour, there will be exactly one charge in each of the four adjacent cells to the starting cell.)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1391/17.png}
+    \caption{Caption}
+    \label{fig:1391:17}
+\end{figure}
+\\
+18. how many four-member subset of real numbers exist whose if we put the product of any two member of that in a set, that set will be $\{2, 8, 9, 32, 36, 144\}$?
+\\
+19. A function $f: \mathbb{N} \to \mathbb{N}$ is defined such that $f(1) = 1$ and for $n > 1$, if the prime factorization of $n$ is $n = p_1^{r_1} p_2^{r_2} \cdots p_k^{r_k}$, then $f(n) = r_1^{p_1} r_2^{p_2} \cdots r_k^{p_k}$. Which of the following is correct? (The $p_i$ are distinct prime numbers and the $r_i$ are natural numbers.)
+
+        1) $f$ is surjective.
+        2) $f$ is injective.
+        3) If $a$ and $b$ are in the range of $f$, then $ab$ is in the range of $f$.
+        4) For any two natural numbers $m$ and $n$, $f(m)f(n) \leq f(mn)$.
+        5) For any two natural numbers $m$ and $n$, $f(m)f(n) \geq f(mn)$.
+\\
+20. A wheel with a radius of 10 meters is connected to the ground by an axle, allowing it to rotate freely around that axis. A rod of length 10 meters is attached tangentially to the wheel. If the wheel rotates $60^\circ$, what is the area of the region that the rod sweeps over (in square meters)?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1391/20.png}
+    \caption{Caption}
+    \label{fig:1391:20}
+\end{figure}\\
+1) 20 \quad 2) 30 \quad 3) 40 \quad 4) 50 \quad 5) 60
+\\
+21. Consider a sequence $\{a_n\}$ that starts with two real numbers $a_1$ and $a_2$, and the subsequent terms are determined by the relation $a_{n+2} = \text{max}\{a_{n+1}-1, a_{n}+1\}$. If $a_100 = 100$, what is the maximum possible value for $a_1$?
+\\
+22. Ehsan and Hesam are playing a game on a $3 \times 2$ board as shown in the figure. In this game, on their turn, each player can either place a piece in an empty cell or move one of their existing pieces to the cell to the right or above, provided that cell is empty. The loser is the first person who cannot make a move. Ehsan starts the game by placing a piece in one of the empty cells numbered 1 to 4. which place should he put the piece so that he wins? 
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1391/22.png}
+    \caption{Caption}
+    \label{fig:1391:22}
+\end{figure}\\
+1) 1
+2) 2
+3) 3
+4) 4
+5) In each of these four cases, Hesam can win.
+\\
+23. Find the number of solutions to the equation below in natural numbers less than or equal to 100, with the condition $x\leq y$. 
+\[
+x^2 + y^2 = xy\times \gcd(x,y) + \text{lcm}(x,y)
+\]
+Here, $\gcd(x, y)$ denotes the greatest common divisor of $x$ and $y$, and $\text{lcm}(x, y)$ denotes the least common multiple of $x$ and $y$.
+\\
+24. In a polygon where a side does not intersect any other sides, we call a side "baddy" when it's adjacent sides are located on opposite sides of the line containing it. For example, in a pentagon, the sides $CD$ and $DE$ are the only "baddy" sides. What is the maximum number of such "baddy" sides that a polygon with $1391$ sides can have?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1391/24.png}
+    \caption{Caption}
+    \label{fig:1391:24}
+\end{figure}
+\\
+On the surface of a sphere, 4 circles are drawn. Into how many regions can the surface of this sphere be divided at most? 
+
+(1) 13 (2) 14 (3) 15 (4) 16 (5) 17
+
+\section{1392}
+1. Sina wants to plan a study schedule for the mathematics, literature, and physics books of the three years of high school in such a way that the books of each subject are studied in order of their level (for example, Physics 1 should be studied before Physics 2). In how many different ways can he study all the books?
+\\
+2. What is the value of $x^6 + y^6$ if $x$ and $y$ are two real numbers such that $x^2 + y^2 = 40$ and $x + y = 6$?
+\\
+3. In the given figure, $M$ and $N$ are the midpoints of sides $AD$ and $BC$, respectively. What multiple of the area of the shaded quadrilateral is the area of rectangle $ABCD$ ?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/3.png}
+    \caption{Caption}
+    \label{fig:1392:3}
+\end{figure}
+\\
+4. Consider the function $f: \mathbb{R} \to \mathbb{R}$ whose graph is similar to the given figure. which of the following graphs is the shape of function $\frac{f(x)}{x-1}$? (In this case, the graph of the function is undefined at the point $x = 1$ for all options.)
+\\
+1)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/4-0.png}
+    \caption{Caption}
+    \label{fig:1392:4-0}
+\end{figure}\\
+2)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/4-1.png}
+    \caption{Caption}
+    \label{fig:1392:4-1}
+\end{figure}\\
+3)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/4-2.png}
+    \caption{Caption}
+    \label{fig:1392:4-2}
+\end{figure}\\
+4)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/4-3.png}
+    \caption{Caption}
+    \label{fig:1392:4-3}
+\end{figure}\\
+5)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/4-4.png}
+    \caption{Caption}
+    \label{fig:1392:4-4}
+\end{figure}
+\\
+5. We call a natural number "small" if it has at least three positive divisors and the sum of its smallest three positive divisors is equal to it. How many "small" numbers exist?
+
+1) 0
+2) 1
+3) 2
+4) 6
+5) Infinity.
+\\
+6. In triangle $ABC$, point $D$ is located on side $BC$ such that angles $\angle BAD$ and $\angle CAD$ and $\angle ABC$ are equal, and the lengths of segments $BD$ and $DC$ are 1 and 2, respectively. What is the lenght of segment $AB$?
+
+1) $\sqrt{2}$
+2) $\sqrt{3}$
+3) $\frac{\sqrt{6}}{3}$
+4) $\frac{\sqrt{3}}{2}$
+5) $\frac{\sqrt{6}}{2}$
+\\
+7. The sequence of natural numbers is defined as follows: \\
+$a_0, a_1, a_2, \ldots$. \\
+$a_0 = 1$; \\
+$a_{n+1} = 13^{a_n} \quad (n \geq 0)$. \\
+What is the units digit of $a_{1392}$?
+
+1) 1
+2) 3
+3) 5
+4) 7
+5) 9
+\\
+8. Which option is correct regarding the following numbers?
+$a = 100!$; $b = 2^{100}$; $c = 2^{2^{2^{2^{2}}}}$
+
+1) $a<b<c$
+2) $b<a<c$
+3) $c<a<b$
+4) $b<c<a$
+5) $a<c<b$
+\\
+9. Suppose we color seven regions within this shape using three colors: blue, red, and green, such that adjacent regions have different colors (regions that only share a single point are not considered adjacent). In how many ways can this be done?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/9.png}
+    \caption{Caption}
+    \label{fig:1392:9}
+\end{figure}
+\\
+10. The Ministry of Roads and Urban Development has constructed a highway of length $2^19 = 524288$ meters between Zahedan and Mashhad. It intends to equip this highway with lighting in a long-term project. Every day, among the largest sections of the highway that have no lights, the section closest to Zahedan is chosen, and a light is installed at its midpoint. How many meters away from Mashhad is the 1001st light that is installed?
+\\
+11. If we have a calculator with the ability to display very large numbers, it consists of a display screen and buttons numbered from 1 to 9. By pressing each button, the number on the display screen is immediately multiplied by the number corresponding to that button, and the result is displayed in place of the previous number on the screen. If initially the number 1 is displayed on the screen, how many times must the multiplication buttons be used to obtain the number $2^{2014} \times 3^{1435} \times 5^{1392}$? (For example, it is possible to achieve $729$ with three uses of the multiplication button, because $9 \times 9 \times 9 = 729$.)
+\\
+12. How many of the following shapes can be folded to form a cube?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/12.png}
+    \caption{Caption}
+    \label{fig:1392:12}
+\end{figure}
+\\
+13. The quality of the first stage exam last year on the Iranian Mathematics Olympiad website www.mathysc.ir was described as "very good," "excellent," and "couldn't be better." Before Abbas registers his opinion on the website, the percentages for these options were 25, 50, and 25, respectively. After he registers his opinion, these percentages change to 24, 48, and 28. What was the number of opinions registered before Abbas registered his opinion? (The percentages are exact.)
+\\
+14. How many ordered pairs of prime numbers $(p, q)$ exist such that $p^2 - pq + q^2 = 37^2$?
+\\
+15. Imagin $n$ is the smallest positive integer with 1392 positive divisors. How many prime factors does $n$ have?
+\\
+16. A shepherd ties his hungry sheep to three different trees in a lush pasture with three ropes. The sheep eats all the grass in the areas of the pasture it can reach. Which shape cannot be the area where the sheep has eaten all the grass?\\
+1) one point.\\
+2)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/16-2.png}
+    \caption{Caption}
+    \label{fig:1392:16-2}
+\end{figure}\\
+3)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/16-3.png}
+    \caption{Caption}
+    \label{fig:1392:16-3}
+\end{figure}\\
+4)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/16-4.png}
+    \caption{Caption}
+    \label{fig:1392:16-4}
+\end{figure}\\
+5)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1392/16-5.png}
+    \caption{Caption}
+    \label{fig:1392:16-5}
+\end{figure}
+\\
+17. In a military camp, 1196 soldiers are standing in 13 rows of 92 soldiers each in an orderly manner. If the last soldier from the last row looks along the line connecting him to the first soldier of the first row, how many soldiers does he see? (Assume the soldiers are points.)
+\\
+18. On lines parallel to the sides of triangle $ABC$, as shown in the figure, we draw triangle $A'B'C'$ such that its perimeter is half the perimeter of $ABC$. The length of $AB$ is how many time of the length $AD$?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/18.png}
+    \caption{Caption}
+    \label{fig:1392:18}
+\end{figure}
+\\
+19. Let $S$ be the set of all real numbers $a$ for which there exist real numbers $x$ and $y$ such that $a(a - 1) + x(x - 1) + y(y - 1) = \frac{3}{2}$. We know that $S$ is an interval. What is the length of this interval?
+\\
+20. The orthogonal projection of a planar quadrilateral in space onto the three coordinate planes is in the form of these shapes. What is the sum of the squares of the lengths of the diagonals of this quadrilateral?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/20.png}
+    \caption{Caption}
+    \label{fig:1392:20}
+\end{figure}
+\\
+21. How many ordered quadruples $(x, y, z, t)$ of real numbers can be found that satisfy the following equations?
+\[
+xy + yz + zx = t^2
+\]
+\[
+yz + zt + ty = x^2
+\]
+\[
+zt + tx + xz = y^2
+\]
+\[
+tx + xy + yt = z^2
+\]
+
+1) 1
+2) 5
+3) 9
+4) 25
+5) Infinity.
+\\
+22. The Ministry of Oil has dug a channel between Bushehr and Ilam and intends to place a gas pipeline in it. The cross-section of the channel is in the shape of a part of a parabola, and the cross-section of the pipe is in the shape of a circle. (By parabola, we mean the graph of a quadratic polynomial.) If the width of the channel is $2$ meters and its depth is $4$ meters, what is the radius of the largest pipe that can be placed in the channel such that it touches the bottommost point of the channel? (The proportions in the figure are not accurate.)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/22.png}
+    \caption{Caption}
+    \label{fig:1392:22}
+\end{figure}
+\\
+23. In triangle $ABC$, the lengths of the sides $AB$, $AC$, and $BC$ are $2$, $4$, and $\sqrt{7}$, respectively. A line parallel to inner angle bisector of $\hat{A}$ is drawn through point $B$, and it intersects the line that connects the midpoints of $AB$ and $AC$ at point $D$. What is the length of $AD$?
+\\
+24. Pahlevan Puriya Vali has asked Yavar to move 9 mils of the Zurkhaneh from the points represented by hollow circles to the points represented by solid circles, such that the sum of the distances of the 9 pairs of initial and final points is maximized. (Note that at each point, one mil is placed.) In this case, to which points should the mils $c$, $b$, and $a$ be transferred?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/24.png}
+    \caption{Caption}
+    \label{fig:1392:24}
+\end{figure}\\
+1) 2, 3, 5
+2) 8, 7, 5
+3) 8, 7, 9
+4) 4, 7, 5
+5) It has severeal awnsers.
+\\
+25. The only thief of Shakrestan has been pursued by the Shakrestan police for two years. According to the police investigations, the number of his trips between Shakrestan and the 4 neighboring cities has been as follows (for example, this thief has made three trips from Eastern Namakestan to Shakrestan). In which city is he hiding now?
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1392/25.png}
+    \caption{Caption}
+    \label{fig:1392:25}
+\end{figure}\\
+1) Shakrestan
+2) East Namakestan
+3) West Namakestan
+4) North Namakestan
+5) South Namakestan
+
+\section{1393}
+1. In the Zanjan-Tabriz highway, from 8 AM to 10 AM, 2370 vehicles have passed through the toll. These vehicles, in total, consumed 18320 liters of gasoline, and all of them were either single-occupant or two-occupant vehicles. We know that each single-occupant vehicle consumed 7 liters of gasoline on the route, and each two-occupant vehicle consumed 8 liters of gasoline on this route. How many single-occupant vehicles were there in total?\\
+1) 320 \quad 2) 480 \quad 3) 640 \quad 4) 1050 \quad 5) 1185 
+\\
+2. In an isosceles triangle $ABC$, where $AB = AC$, points $X$ and $Y$ are on the line segment $AC$ such that $BY = AX = BX$ and $X$ is between $A$ and $Y$. If $\angle YBC = 10^\circ$, what is the measure of $\angle BAC$?\\
+1) $\frac{95}{3}^\circ$ \quad
+2) $38^\circ$ \quad 3) $40^\circ$ \quad 4) $41^\circ$ \quad  5) $\frac{185}{4}^\circ$ 
+\\
+3. What is the value of $xy$? $x$ and $y$ are two real numbers such that $3^{- y} = 2$ and $2^{x + 1} = 18$.\\
+1) -2 \quad 2) -1 \quad 3) 2 \quad 4) $-\frac{1}{2}$ \quad 5) $\frac{1}{2}$
+\\
+4. How many natural number $a$ is there such that 
+$a^{a^{a^{\cdot^{\cdot^{\cdot^{a}}}}}}$
+(with $a$ repeated $a$ times) is a perfect square and $a$ is less than 1393? \\ 
+(1) 37 \quad (2) 696 \quad (3) 715 \quad (4) 733 \quad (5) 734
+\\
+5. Which of the following is the maximum value of $g(2)$, given that $f: \mathbb{R} \to \mathbb{R}$ is shown below and $g: \mathbb{R} \to \mathbb{R}$ is an increasing function, where $g(x) \leq f(x)$ for every real number $x$?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1393/5.png}
+    \caption{Caption}
+    \label{fig:1393:5}
+\end{figure}\\
+1) 0  2) 1  3) 2  4) 3  5) 4 
+\\
+6. In the city of Nistan, the price of reeds increases with the length of the reed. A merchant in Shakrestan intends to import reeds from Nistan. In Shakrestan, the glasses are in the shape of a truncated cone with a height of $16$ centimeters, a top diameter of $10$ centimeters, and a bottom diameter of $6$ centimeters. The merchant intends to spend the least amount of money, but according to the laws of Shakrestan, the reed must not be completely inside the glass under any circumstances. What is the length of the reeds he buys? (We disregard the diameter of the reed, assuming the reed is a line segment.)  \begin{enumerate}     
+\item $2\sqrt{73}$     
+\item $2\sqrt{89}$     
+\item $8\sqrt{5}$     
+\item $2\sqrt{87}$     
+\item $10\sqrt{3}$     
+\end{enumerate}
+7. How many non-empty subsets of the set $\{1, 2, \ldots, 10\}$ are there such that the difference between the largest and smallest element of the subset is 6?\\ 
+1) 32 \quad 2) 64 \quad 3) 128 \quad 4) 256 \quad 5) 1024 
+\\
+8. The country of Shakrestan is composed of three provinces: Namakestan, Felfelestan, and Sumaqestan, which have a $10$, $n$, $2n$ cities, respectively. We know that the number of citizens in the different cities of this country is the same and the total number of citizens is $n^2 + n + 1$. In which of the following ranges does $n$ fall?\\
+(1) 1 to 10 \quad (2) 11 to 20 \quad (3) 21 to 30 \quad (4) 31 to 40 \quad (5) 41 to 50 
+\\
+9. In the trapezoid $ABCD$, where $AB \parallel CD$ and $CD = 3AB$, $N$ and $M$ are the midpoints of $CD$ and $BC$, respectively. The area of the trapezoid is $32$. What is the area of triangle $AMN$?\\
+(1) 8 \quad (2) 10 \quad (3) 12 \quad (4) 15 \quad (5) 16
+\\
+10. For how many integer values of $n$ do the polynomials $x^3 + x - n^2$ and $x^3 + nx - 1$ have a common real root? \begin{enumerate}     
+\item $0$     
+\item $1$     
+\item $2$     
+\item $3$  
+\item $Infinity.$ 
+\end{enumerate}
+11. What is the maximum number of non-congruent triangles that can be formed with side lengths chosen from the numbers $1, 2, 4, 8,\cdots ,2^{10}$? (The side lengths can be equal.) 
+\begin{enumerate}     
+\item $55$     
+\item $66$     
+\item $90$     
+\item $120$  
+\item $165$ 
+\end{enumerate}
+12. For a natural number $n$, let $(x + n)^2$ be equal to the polynomial $P_n(x)$. What is the coefficient of $x^{2^{1393}}$ in the polynomial $P_{1393}(P_{1392}(\ldots(P_1(x))\ldots))$?   Which of the following is it equal to? \\
+1) $0$ 
+2) $2^{1392}$ 
+3) $2^{1392} + 1$ 
+4) $2^{1393} - 1$ 
+5) $2^{1393}$ 
+\\
+13. Find the number of functions $f: A \to B$ such that $B = \{1, 2, \ldots, 100\}$ and $A = \{1, 2, \ldots, 10\}$. Assume the relation $f(mn) = mf(n)$ holds for every two natural numbers $m$ and $n$ where $2 \leq m, n \leq 10$ and $mn \leq 10$.\\
+1) $10^2$ 
+2) $10^3$
+3) $10^4$
+4) $10^5$
+5) $2\times 10^5$
+\\
+14. The king of Shakrestan, who has a palace in the shape of a square, recently found an inscription in the salty script related to one of his ancestors who was a mathematician. Linguists determined that there are treasures located at various points in the city. Below is the translation of the inscription.  The treasures are hidden at points in the city such that if each of them is symmetrically reflected with respect to the northern side, southern side, eastern side, western side, the first diagonal, and finally the second diagonal of the palace, it returns to its original position.  How many treasures are hidden in the city?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1393/14.png}
+    \caption{Caption}
+    \label{fig:1393:14}
+\end{figure}\\
+1) $0$ 
+2) $1$
+3) $2$
+4) $4$
+5) $8$
+\\
+15. An engineer wants to design a plan for a house with six walls. He wants three of the walls to be in the north-south direction with lengths of 2, 4, and 6 meters, and three of the walls to be in the east-west direction with lengths of 4, 6, and 10 meters. How many different plans with these characteristics can he draw?  
+\begin{enumerate}     
+\item 8     
+\item 12     
+\item 16     
+\item 20     
+\item 24 
+\end{enumerate}
+16. We know that a natural number in base 2 is 30 digits long. What can be said about the number of digits of this number in base 3? \\ 
+1) It is definitely 18 digits.\\ 
+2) It is definitely 19 digits.\\ 
+3) It is definitely 20 digits. \\ 
+4) For some numbers, it is 18 digits, and for others, it is 19 digits. \\ 
+5) For some numbers, it is 19 digits, and for others, it is 20 digits.
+\\
+17. We say that $x$ and $y$ are "not so large" if for every two positive integers $n$, we have $(x+1)(y+1) = 2$ and $xy + \frac{1}{xy} \geq n$. What is the largest "not so large" number? 1) 2 
+2) 3
+3) 4 
+4) 5
+5) 7 
+\\
+18. Let \( A, B, C, D, E \) be the vertices of a convex pentagon in clockwise order. We know that \( AD = 2\sqrt{3} , AC = 2 \). If \( \angle EDA = \angle DCA \), \( \angle BCA = \angle CDA \), and \( \angle BAE = 2\angle CDA = 93^\circ \), then what is the value of \( \frac{AE}{AB} \) equal to?
+\begin{enumerate}     
+\item \(\frac{1}{3} \sin 93^\circ\)  
+\item \( \frac{1}{3}\)     
+\item \( \frac{1}{\sqrt{3}} \)     
+\item \( 3\sin 93^\circ \) 
+\item \(3\)
+\end{enumerate} 
+19. What is the maximum value of $\sin(y) + \cos(x)$ given that $x$ and $y$ are real numbers such that $\sin(x) + \cos(y) = 1$? \begin{enumerate}     
+\item $\frac{\sqrt{2}}{2}$     
+\item $\sqrt{2}$     
+\item $\sqrt{3}$     
+\item $1+\frac{\sqrt{3}}{2}$     
+\item $2$ 
+\end{enumerate}
+20. We have a transparent and colored plastic sheet in the shape of two equal circles, each divided into three parts by three radii with equal angles of $120^\circ$. The parts have different colors. Whenever two colors overlap, a new color is created, and the resulting combined colors are also different from each other. For example, in the figure opposite, 10 different colors have been created.  What is the maximum number of different colors that can be created when the sheets are placed in one position?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1393/20.png}
+    \caption{Caption}
+    \label{fig:1393:20}
+\end{figure}
+\begin{enumerate}     
+\item 11     
+\item 12     
+\item 13     
+\item 14     
+\item 15 
+\end{enumerate}
+21. We call a finite subset of natural numbers "regular" if the average of its elements is a natural number. We call it "super regular" if all of its finite subsets are regular. How many five-element super regular subsets are there in the set $\{1, 2, \ldots, 67\}$?  
+\begin{enumerate}     
+\item 0     
+\item 12     
+\item 14     
+\item 19     
+\item 47 
+\end{enumerate}
+22. We have six points in the plane such that no three of them are collinear. Among the angles formed by these points, what is the maximum number of angles that can exist in the interval $(90^\circ, 180^\circ)$? \\ 
+(1) 6 \quad (2) 12 \quad (3) 18 \quad (4) 20 \quad (5) 24
+\\
+23. Consider the circumcircle of triangle $ABC$ with arc $BC$ not containing $A$. Let $P$ be a point on arc $BC$. Points $M$ and $N$ are on line $BC$ such that $AB = 2$, $AC = 3$, and $BC = 4$. We know that $A$, $M$, and $N$ are on the circumcircle, with $N$ between $B$ and $C$, and $M$ between $C$ and $B$. The line $AP$ is tangent to the circumcircle at $P$. Find the length of $PT$.\\
+(1) $\frac{5}{2} \quad $ \quad
+(2) $\frac{3\sqrt{3}}{2}$ \quad 
+(3) $\frac{5\sqrt{13}}{7}$ \quad 
+(4) $\frac{2\sqrt{15}}{3}$ \quad 
+(5) $\frac{4\sqrt{10}}{5}$
+\\
+24. Consider a natural number $M$ to be good if there exists $a_1, a_2, \ldots, a_n (n \geq 3)$ such that the following properties hold:\\  
+(a) $M = a_1 \times a_2 \times \cdots \times a_n$ and $M$ is not divisible by the cube of any natural number greater than one.  (b) If $1 \leq i \leq n$, then $a_i$ divides $a_{i-1}a_{i+1}$, where $a_{n+1} = a_1$ and $a_0 = a_n$.\\
+How many good numbers are there less than 2015?\\
+(1) 22 \quad (2) 26 \quad (3) 29 \quad (4) 44 \quad (5) 72 
+\\
+25. A point $(x(t), y(t), z(t))$ moves in space such that at time $t$, it exists in the point $(x(t) ,y(t) ,z(t))$. According to the figures, what is the distance traveled by this moving point from $t = 0$ to $t = 8$? Which option is equal to this distance?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1393/25.png}
+    \caption{Caption}
+    \label{fig:1393:25}
+\end{figure}
+\begin{enumerate}     
+\item $\frac{8\sqrt{2}}{3}$     
+\item $4\sqrt{\frac{7}{3}}$     
+\item $8\sqrt{\frac{2}{3}}$     
+\item $8\sqrt{\frac{7}{3}}$     
+\item $16\sqrt{\frac{2}{3}}$ 
+\end{enumerate}
+26. "Pesheez" are microscopic creatures that have different sizes. Whenever two pesheez with sizes $x$ and $y$ are placed near each other, they can merge to form a single pesheez with size $x + y$ by consuming an energy equal to $\lvert x - y \rvert$. If $1025$ pesheez, each of size $1$, are lined up on a line, what is the minimum total energy required to merge them into a single pesheez of size $1025$? 
+\begin{enumerate}     
+\item $9$     
+\item $10$     
+\item $11$     
+\item $31$     
+\item $32$ 
+\end{enumerate}
+27. In a regular nonagon $A_1A_2\cdots A_9$, the points $K$, $M$, and $N$ are such that $A_1A_2A_4K$ is a parallelogram, and $A_6A_7M$ and $A_8A_9N$ are equilateral triangles. What is the measure of the angle $\angle MKN$?\\
+(1) 20 \quad (2) 30 \quad (3) 40 \quad (4) 45 \quad (5) 60 
+\\
+28. Let \( f: A \to \{0, 1, 2\} \) be a function where \( A \) is the set of points with integer coordinates in the plane. The function \( f \) has the property that for every integer \( x \) and \( y \), the expression  \[ f(x, y) - f(x+1, y) - f(x-1, y) - f(x, y+1) - f(x, y-1) \]  is divisible by 3. Which statement is true?\\
+1) The function \( f \) must be constant.\\
+2) There does not exist a finite set in which \( f \) can be uniquely determined by knowing \( f \) on that set.\\
+3) If the set of points where \( f \) takes the value 1 is known (it's not empty), then \( f \) is uniquely determined.\\
+4) If we know \( f \) on the points where both components are even, then \( f \) is uniquely determined.\\
+5) Options 2 and 3. 
+\\
+29. We call a triangle with all its angles in the interval $[45^\circ, 90^\circ]$ and each of its side lengths a number in the interval $[1, 2]$ a "moderate" triangle. What is the maximum difference in area between two moderate triangles?\\  
+\begin{enumerate}     
+\item $\frac{3\sqrt{3}}{4}$     
+\item $\frac{8 - \sqrt{2}}{2}$    
+\item $\sqrt{3}$     
+\item $\frac{12 - 3\sqrt{2}}{8}$     
+\item None of the above.
+\end{enumerate}
+30. We have divided an equilateral triangle with side length $5$ into smaller triangles with side length $1$ as shown. At each vertex of this network, we assign an arbitrary vector of length $1$ parallel to one of the sides of the triangle. How many different possible values can the sum of all these vectors have?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1393/30.png}
+    \caption{Caption}
+    \label{fig:1393:30}
+\end{figure}
+\begin{enumerate}     
+\item $126$     
+\item $726$     
+\item $2774$     
+\item $1387$     
+\item $363$ 
+\end{enumerate}
+
+\section{1394}
+1.
+\\
+2. In triangle $ABC$, point $E$ is on side $AC$ and point $D$ is on the line $AC$ such that $\angle BAC = 60^\circ$ and $\angle DEC = 30^\circ$. Points $E$ and $D$ are chosen such that $C$ is between $B$ and $D$, and $DE = AB$. What is the ratio $\frac{BC}{CD}$?
+
+1) $\frac{1}{2}$
+2) $\frac{\sqrt{3}}{3}$
+3) $\frac{\sqrt{3}}{2}$
+4) $\frac{2}{\sqrt{3}}$
+5) $\sqrt{3}$
+\\
+3. Let \( a, b, c, d \) be real numbers that satisfy the equations \( d + a = 5 \), \( b + c = 3 \), \( ab = 2 \), and \( cd = 4 \). How many possible values exist for \( a \)?
+
+1) 0
+2) 1
+3) 2
+4) 4
+5) infinity
+\\
+4. We have three pairs of screws and nuts: small, medium, and large, but we do not know which screw corresponds to which nut. 
+Each time, we can test one screw with one nut. What is the minimum number of tests needed to ensure that we find the matching nut for each screw in every case?
+
+1) 1
+2) 2
+3) 3
+4) 4
+5) 5
+\\
+5. We call a week in year Interesting if the Monday in that week is 2th, 12th or 22th in that Month. In a season with 3 months with 30 days each, how many weeks can be Interesting?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/5.png}
+    \caption{Caption}
+    \label{fig:1394:5}
+\end{figure}
+1) 1 or 2 weeks.
+2) 1 or 3 weeks.
+3) 0 or 3 weeks.
+4) 0 or 1 or 2 weeks.
+5) exactly 2 weeks.
+\\
+6. A truncated conical vase with a height of 20 cm and
+ diameters of the mouth and base being 15 cm and 10 cm
+  respectively is placed on the ground. A ball with a
+   radius of 7 cm is placed inside this vase. To which
+    option is the height of the highest point of the ball
+     from the ground (in centimeters) closest?
+
+1) 21
+2) 23
+3) 25
+4) 27
+5) 29
+\\
+7. Two real numbers $a$ and $b$ satisfy $a^2 + b^2 = 8$. What
+ is the maximum value of $2(a+b) - ab$?
+
+1) $4$
+2) $2\sqrt{6}$
+3) $2\sqrt{8}$
+4) $6$
+5) $8$
+\\
+8. In a hotel, there are 13 rooms numbered from 1 to 13 and
+13 keys from 1 to 13. Each
+ room has a key, but not every key is unique. All keys that
+  have the difference between the number written on them and
+   the room number divisible by 3 can open the room. In how
+    many ways can the keys be assigned to the rooms so that
+     all rooms can be opened?
+
+1) $5!\times (4!)^2$
+2) $4!\times (5!)^2$
+3) $\frac{5!\times (4!)^2}{3!}$
+4) $\frac{4!\times (5!)^2}{3!}$
+5) $13!$
+\\
+9. To which option is the value of $\sin(11^{100})$ closer?
+
+1) $-1$
+2) $-\frac{1}{2}$
+3) $0$
+4) $\frac{1}{2}$
+5) $1$
+\\
+10.
+\\
+11. In how many ways can 3 matchsticks be removed from the 9
+ matchsticks present in the figure such that no triangle
+  remains in the figure?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/11.png}
+    \caption{Caption}
+    \label{fig:1394:11}
+\end{figure}\\
+1) 6
+2) 9
+3) 18
+4) 27
+5) 80
+\\
+12. Consider a rectangle with sides 30 and 40, divided into a
+ grid of unit squares by lines parallel to the sides. Take
+  one of the diagonals of the original rectangle. How many of
+   the unit square's inscribed circles in the grid are tangent
+    to this diagonal?
+
+1) 10
+2) 20
+3) 30
+4) 38
+5) 40
+\\
+13. A frog is sitting on the zero point of the integer axis
+ and can jump either to the right or to the left in each step.
+  The length of the jumps of a frog can be any of the numbers
+   $1, 5, 5^2, 5^3, \cdots$. If this frog cannot make two jumps of
+    equal length, how many of the points of the set $\{1,2,
+    cdots , 1384\}$ he can go to?
+
+1) 63
+2) 64
+3) 81
+4) 121
+5) 243
+\\
+14. How many ordered quadruples of real numbers $(a, b, c, d)$
+ satisfy the system of equations below?
+
+\[
+\begin{cases} 
+a^3 + bc = d^3 \\
+b^3 + cd = a^3 \\
+c^3 + da = b^3 \\
+d^3 + ab = c^3 
+\end{cases}
+\]
+
+1) 1
+2) 5
+3) 25
+4) 49
+5) Infinity.
+\\
+15.
+We call a point $P$ in cone special, if different points $X$ and $Y$
+ doesn't exist so that $P$ be the median of $XY$. which one of these options
+ is correct?
+
+1) cone has exactly one special point
+2) Any line that intersects the circular face of the cone must include a special point of the cone.
+3) Any plane that intersects the cone must include a special point of the cone.
+4) All points on the lateral surface of the cone are special.
+5) There exists exactly one sphere in space such that all the
+special points of the cone lie on its surface.
+\\
+16. Ali has discovered a formula for quadratic polynomials that allows
+   him to find the value of a quadratic polynomial at the
+    point $3$ based on its values at the points $0$, $1$,
+     and $2$ as follows: 
+     $$P(3) = aP(0) + bP(1) + cP(2)$$.
+which $a$, $b$, and $c$ are three constant numbers. Find these three numbers and awnser what $a - b + c$ is?
+
+1) 3
+2) 4
+3) 5
+4) 6
+5) 7
+\\
+17. In how many ways can 8 squares be chosen in the given
+ grid such that no two of them are in the same row or column?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/17.png}
+    \caption{Caption}
+    \label{fig:1394:17}
+\end{figure}\\
+1) 15
+2) 20
+3) 28
+4) 32
+5) 64
+\\
+18. what is the maximum numbers that we can choose from the set
+\[1,2,\cdots 1394\] so that the product of every five of them will be
+divisible by 14?\\
+
+1) 99
+2) 103
+3) 107
+4) 111
+5) 114
+\\
+19. Which option represents the set of points $(x, y)$ on the
+ plane with the property that the maximum value among the three
+  expressions $x - y - 1$, $x + y$, and $y^2 - x - y$ is equal
+   to $1$?\\
+1)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/19-1.png}
+    \caption{Caption}
+    \label{fig:1394:19-1}
+\end{figure}\\
+2)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/19-2.png}
+    \caption{Caption}
+    \label{fig:1394:19-2}
+\end{figure}\\
+3)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/19-3.png}
+    \caption{Caption}
+    \label{fig:1394:19-3}
+\end{figure}
+4)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/19-4.png}
+    \caption{Caption}
+    \label{fig:1394:19-4}
+\end{figure}
+5)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/19-5.png}
+    \caption{Caption}
+    \label{fig:1394:19-5}
+\end{figure}
+\\
+20. At the beginning of the first day, a single virus enters
+ the body. At the end of each day, each virus that has lived for
+ $k$ days, make $k$ new viruses and continues to live. 
+ How many viruses will be produced at the end of the sixth day?
+
+1) 89
+2) 112
+3) 128
+4) 144
+5) 243
+\\
+21. In how many ways can the number $150^{7}$ be written as the
+ sum of consecutive natural numbers(more that one number), 
+ where the order of the
+  numbers does not matter?
+
+1) 0
+2) 59
+3) 119
+4) 179
+5) 239
+\\
+22. In how many ways can you fill a $1\times 7$ grid with 
+$1\times 2$ dominos so that every box is filled with at least 
+1 domino and maximum of 2 dominos?
+
+1) 15
+2) 16
+3) 17
+4) 18
+5) 19
+\\
+23. We want to install cylindrical columns at all points of a
+ regular grid, except for the central point of a $5 \times 5$
+  grid, in such a way that the central point is not visible
+   from the outside. This means that in the flat map you see,
+    every line passing through the central point intersects at
+     least one of the circles. If the distance between adjacent
+      points is $1$ meter, what is the minimum required radius
+       of the column cross-section in meters?
+
+1) $\sqrt{\frac{1}{13}}$
+2) $\sqrt{\frac{1}{10}}$
+3) $\sqrt{\frac{1}{5}}$
+4) $\sqrt{\frac{4}{17}}$
+5) $\sqrt{\frac{2}{5}}$
+\\
+24. We say that a plane can be tiled with a polygon if it is
+ possible to place infinitely many copies of that polygon on
+  the plane in such a way that they cover the entire plane
+   and, except possibly at the edges, do not overlap. With
+    which shapes is it not possible to tile the plane?
+\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1394/24.png}
+    \caption{Caption}
+    \label{fig:1394:24}
+\end{figure}\\
+1) 0
+2) 1
+3) 2
+4) 3
+5) 4
+\\
+25. We have the numbers $\sqrt{7}^{\sqrt{3}}$, $\sqrt{5}^{\sqrt{5}}$, and
+ $\sqrt{3}^{\sqrt{7}}$, which we denote as $A$, $B$, and $C$,
+  respectively. Which option is correct?
+
+1) $A < B < C$
+2) $A < C < B$
+3) $B < C < A$
+4) $C < B < A$
+5) $A < B < C$
+\\
+26. How many sequence $a_1, a_2, \ldots, a_{51}$ exists with numbers of the set
+ $\{1, 2, 3, \ldots, 30\}$ such that for every 
+ $1 \leq i, j \leq 15$ with $i + j \leq 51$, we have 
+ $a_{i+j} > a_i + a_j$?
+
+1) 0
+2) 1
+3) 4
+4) 9
+5) 15
+\\
+27. 
+\\
+28. Consider the sequences $\{x_n\}$ and $\{y_n\}$ of real numbers for $n \geq 0$ that satisfy the following recurrence relations:
+$$ x_{n+1} = x_{n}^2 + x_n y_n + y_{n}^2,$$
+$$ y_{n+1} = x_{n}^2 - x_n y_n + y_{n}^2.$$
+If $x_0$ and $y_0$ are positive numbers such that $x_0 + y_0 = 2$, and $S = x_8 + y_8$, which of the following is correct?
+
+1) $S < 2^{50}$
+2) $2^{50} \leq S < 2^{200}$
+3) $2^{200} \leq S < 2^{800}$
+4) $2^{800} \leq S < 2^{2000}$
+5) $2^{2000} \leq S$
+\\
+29. Let $B$ and $D$ be given points on the line $BC$ of 
+triangle $ABC$ with $\angle BAC = 40^\circ$. Point $D$ is
+ located on line $BC$. Draw 
+  perpendiculars from $B$ and $D$ to $BC$ and $AB$, 
+  respectively, such that they intersect at $E$. Similary,Draw 
+  perpendiculars from $C$ and $D$ to $BC$ and $AC$, 
+  respectively, such that they intersect at $F$. Draw perpendicular
+  from $D$ to $EF$ and call their intersect $K$. We know $K$ is on $AB$
+  and it's not $B$. what is the measure of $\angle ACK$ in 
+     degrees?
+
+1) 40
+2) 60
+3) 80
+4) 100
+5) 140
+\\
+30. We call a formula with three variables $x, y, z$ Interesting 
+where only The functions 
+minimum and maximum are used in that, such as in the following three 
+formulas: $\min(\max(x, z), y)$; 
+$\min(x, x)$; $\max(x, \min(x, y))$. We say two formulas are 
+different if there exists a value for the variables $x, y, z$ 
+such that the two formulas compute different values for them. 
+For example, the two formulas $\max(x, \min(x, y))$ and 
+$\min(x, x)$ are not different. How many different formulas 
+do we have?
+
+1) 11
+2) 18
+3) 64
+4) 256
+5) infinity.
+
+\section{1395}
+1. In how many ways can the numbers $1, 2, \ldots, 6$ be 
+arranged in a row such that between every two adjacent numbers,
+ one is divisible by the other?
+\\
+2. Consider the right triangle $ABC$ with 
+$\angle BAC = 90^\circ$. A circle is drawn with center $A$ 
+such that it intersects side $AB$ at $D$, side $AC$ at $F$, 
+and side $BC$ at two points $E$ and $M$, where point $E$ is
+ between points $D$ and $M$. It is known that $M$ is the 
+ midpoint of side $BC$ and the ratio of the lengths of arcs 
+ $\overset{\frown}{DE}$ to $\overset{\frown}{EM}$ to 
+ $\overset{\frown}{MF}$ is $3:2:4$. What is the absolute 
+ value of the difference between the two acute angles of 
+ triangle $ABC$?
+
+1) $70^\circ$
+2) $50^\circ$
+3) $45^\circ$
+4) $30^\circ$
+5) $10^\circ$
+\\
+3. Mr. Khan wants to choose a code for his safe and change it
+ every week! The code is a three-digit number, and Mr. Khan 
+ wants the digits of the code to be distinct. Additionally, 
+ the digits of the new code should not be less than the 
+ corresponding digits in the previous code. For example, 
+ if he once chose 259, the next code should not be 159. If 
+ the first code is 140, after how many weeks at most can he 
+ no longer change the code in this way? (Note that in the 
+ first week, the code will be 140.)
+
+1) 28
+2) 24
+3) 20
+4) 19
+5) 16
+\\
+4. Suppose the function $f: \mathbb{Q} \to \mathbb{Q}$ 
+is given. For every $m \in \mathbb{Z}$ 
+and $n \in \mathbb{N}$ with the condition $\gcd(m, n) = 1$, 
+we have:
+\[f\left(\frac{m}{n}\right) = \frac{m}{n+1}\]
+where $\gcd(m, n)$ denotes the greatest common divisor of $m$ 
+and $n$. Which of the following statements about the function $f$
+is true?
+\begin{enumerate}
+    \item The function \( f \) is one-to-one.    
+    \item The function \( f \) is monotonic (either increasing or decreasing).    
+    \item The range of the function \( f \) is all rational numbers.
+    \item For every \( x \in \mathbb{Q} \), we have \( f(x) \leq x \).
+    \item All of the above options are correct.
+\end{enumerate}
+5. How many three-digit numbers $abc$ 
+exist such that it is a perfect square, and if one unit is
+added to the hundreds digit, two units to the tens digit, and
+three units to the units digit, the result is also a 
+three-digit perfect square?
+\[
+1) Zero \quad 2) One \quad 3) Two \quad 4) Three \quad 5) Four
+\]
+\\
+6. Using all the digits from 1 to 9, we have constructed three
+three-digit numbers with distinct digits, and we have named 
+the largest of them $A$. What is the smallest possible value 
+for $A$?
+\begin{enumerate}
+    \item 345    
+    \item 198    
+    \item 912    
+    \item 398    
+    \item 312
+\end{enumerate}
+7. For \( A, B \subseteq \mathbb{R} \), we define 
+\( A \otimes B = \{ ab \mid a \in A, b \in B \} \). 
+How many of the following statements are true?
+(\( \mathbb{Q}' \) denotes the set of irrational numbers.)
+\begin{itemize}
+    \item \( \mathbb{Q}' \otimes \mathbb{Q}' = \mathbb{R} \setminus \{ 0 \} \)    
+    \item \( \{ 2, 5 \} \otimes \mathbb{Q}' = \mathbb{R} \setminus \{ 0 \} \)   
+    \item \( \mathbb{Q}' \otimes \mathbb{Q}' = \mathbb{Q}' \) 
+    \item \( \{ 2, 3 \} \otimes \mathbb{Q}' = \mathbb{R} \setminus \{ 0 \} \)
+\end{itemize}
+1) Four \quad 2) Three \quad 3) Two \quad 4) One \quad 5) Zero
+\\
+8. An equilateral triangle with side length one rolls inside 
+and along the perimeter of a $2 \times 4$ rectangle, as shown 
+in the figure. How far does the vertex $P$, which is marked 
+in the figure, travel from the start of the motion until it 
+returns to its initial position for the first time?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1395/8.png}
+    \caption{Caption}
+    \label{fig:1395:8}
+\end{figure}
+\begin{enumerate}
+    \item $\frac{10}{3} \pi$
+    \item $3 \pi$
+    \item $4 \pi$
+    \item $\frac{7}{3} \pi$
+    \item $2 \pi$
+\end{enumerate}
+9. How many ordered triples $(x, y, z)$ exist such that 
+$x, y, z$ are non-zero distinct digits and $x \times y$ 
+is divisible by $z$?
+\begin{enumerate}
+    \item 140
+    \item 144
+    \item 148    
+    \item 152
+    \item 156
+\end{enumerate}
+10. The numbers $1, 2, \ldots, 1395$ are written on the 
+board, and we cross them out in the following manner: 
+each time, we select the largest number that has not been 
+crossed out yet and cross out all of its divisors in 
+descending order. Then, we proceed to the next largest 
+number that has not been crossed out and repeat this process 
+until all numbers are crossed out. Which is the last number 
+to be crossed out?  
+
+1) 37 2) 41  3) 698  4) 701  5) 703
+\\
+11. We define the operation $*$ on the set of real numbers 
+as follows:
+$$ x * y = \frac{x+y}{1-xy} $$ 
+If $a, b, c$ are the roots of $x^3 - 3x^2 - 2x + 5 = 0$, what
+ is the value of $a * (b * c)$?
+
+1) $2$
+2) $-\frac{2}{3}$ \\ 
+3) $-8$ \\
+4) $\frac{8}{3}$ \\
+5) $-2$
+
+12. Find the number of ordered triples $(a, b, c)$ of natural
+numbers that satisfy the following condition:
+\[
+c(a, b) = a(b, c) = b(c, a) = 2^6 \times 3^8 \times 5^{10}
+\]
+where $(a, b)$ denotes the greatest common divisor of $a$
+and $b$.
+
+1) 3240 \quad 2) 2080 \quad 3) 2000 \quad 4) 1620 \quad 5) 720
+\\
+13. We want to construct a rectangular prism with dimensions 
+$3 \times 2 \times 2$ using 12 unit cubes on a table. 
+Naturally, an upper cube cannot be placed before the cube 
+below it. In how many different ways can this rectangular 
+prism be constructed? (Note that the cubes are 
+indistinguishable from our perspective, and the problem is 
+about filling the 12 positions of the rectangular prism.)
+
+1) 36 \quad 2) 144 \quad 3) 324 \quad 4) 924 \quad 5) 7484400
+\\
+14. The numbers $a, b, c$ are pairwise distinct. We know that 
+the three quadratic equations below have a common root.\\
+$ax^2 + bx + c = 0$ \\ $bx^2 + cx + a = 0$\\ $cx^2 + ax + b = 0$ \\
+What is the value of the common root?
+
+1) $0$
+2) $\frac{1-\sqrt{5}}{2}$
+3) $-1$
+4) $1$
+5) It cannot be uniquely determined.
+\\
+15. We have 1000 apples, of which 900 are healthy and the 
+rest are rotten. We distribute them into several boxes such 
+that the number of apples in each box is the same. What is 
+the minimum and maximum percentage of boxes in which the 
+majority of apples are healthy?
+
+1) 50 and 90 
+2) 50 and 100 
+3) 80 and 90 
+4) 80 and 100 
+5) 90 and 100
+\\ 
+16. How many ordered pairs $(m, n)$ of natural numbers do we
+have such that 
+$[1, 2, \ldots, m] = 1395 \times [1, 2, \ldots, n]$?\\
+(The symbol $[1, 2, \ldots, m]$ denotes the least common 
+multiple of the numbers $1, 2, \ldots, m$.)
+
+1) Zero 2) One 3) Two 4) Three 5) Four
+\\
+17. A right prism with a regular hexagonal base of side length 1
+is cut by a plane. If the distances from the vertices of this
+cross-section to the bottom base are $2, 3, x, y, 11$, and $z$ 
+respectively, what is the value of $x + y + z$?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1395/17.png}
+    \caption{Caption}
+    \label{fig:1395:17}
+\end{figure}\\
+1) 16
+2) 18 
+3) 20 
+4) 24 
+5) 26
+\\
+18. In the city of Simpletons, rumors spread quickly. If 
+Mr. Empty-Talker wants to spread a rumor, he first tells it 
+to one other person. Each day, Mr. Empty-Talker and everyone 
+who has heard the rumor in the previous days each tell it to 
+a new person. After the number of people who have heard the 
+rumor exceeds one million, how many people have heard the 
+rumor directly or indirectly from Mr. Empty-Talker?
+\begin{enumerate}
+    \item 20    
+    \item 210
+    \item 1024
+    \item 500000 
+    \item 524288
+\end{enumerate}
+19. How many ordered pairs of real numbers $(x, y)$ 
+satisfy the following system of equations?
+\[ 
+\begin{cases}
+    x^2 - 3xy + 2y^2 + x - y = 0\\
+    2x^2 - 2xy - 3y^2 - 2x + 5y = 0
+\end{cases}
+\]
+\begin{enumerate}
+    \item 2    
+    \item 3
+    \item 4
+    \item 5 
+    \item 6
+\end{enumerate}
+20. A neighborhood street is in the shape of a grid: three 
+horizontal streets and ten vertical streets. A police officer 
+wants to patrol all the intersections in such a way that he 
+starts from the top-right intersection, crosses each 
+intersection exactly once, and returns to the top-right 
+intersection at the end. In how many different ways is this 
+possible?
+\begin{enumerate} 
+    \item $2^5$
+    \item $3^5$
+    \item $2 \times 3^4$
+    \item $2^4$
+    \item $3^6 - 3^5$
+\end{enumerate}
+21. The streets of a neighborhood named Pehran, as shown in 
+the figure, include 9 intersections and 12 streets. 
+(The path between any two intersections is a street.) 
+Every night, 90 cars are parked, all of which are located on 
+the streets and not at the intersections. At each 
+intersection, the average number of cars present on the 
+streets connected to that intersection is called the parking 
+capacity of that intersection. We know that the total parking 
+capacity of the 9 intersections is 66. Which one of the 
+following statements is necessarily true?
+\\
+1) The parking capacity of the central intersection of the 
+neighborhood is greater than that of the other intersections. 
+\\ 
+2) In each of the streets located on the edge of the 
+neighborhood, at least 6 cars are parked. 
+\\
+3) In one of the streets located on the edge of the 
+neighborhood, at least 8 cars are parked. 
+\\
+4) In one of the streets connected to the center of the 
+neighborhood, at least 9 cars are parked. 
+\\
+5) Options 1 and 4. 
+\\
+22. In the competition of the strongest men in Iran, 10 houses are arranged around a circle, and in each house, there are 200 weights from all the weights of 1, 2, ..., 200 kilograms. Initially, a man is placed in a house, and with the start of the competition, he picks up the 1-kilogram weight from that house and moves 1 house forward in the clockwise direction, places the weight there, and picks up the 2-kilogram weight from that house and moves 2 houses backward (counterclockwise) and places the weight there. Then, from there, he picks up the 3-kilogram weight and moves 3 houses in the clockwise direction, and this process continues. After he has moved the 200-kilogram weight, how many kilograms of weight are there in the house where he started his work?  
+\\ 1) 20280 2) 202003 3) 201804 4) 201005 5) 20080
+\\
+23. Consider triangle $ABC$. Assume $\omega_b , \omega_c$ are two circles passing through $A$ such that they are tangent to $BC$ at $B$ and $C$, respectively. Let $N$ and $A$ be the intersection points of the mentioned circles. From each of the points $B$ and $C$, draw a line parallel to the opposite side, and name the intersection of these two lines $T$. Let the lines $TC$ and $TB$ intersect the circumcircles of triangles $ANC$ and $ANB$ for the second time at $E$ and $F$, respectively. If $BC = 8$ and $AN = 6$, what is the product $NF \times NE$? \\ 1) 64 2) 81 3) 100 4) 150 5) 200
+\\
+24. In the parallelogram $ABCD$, $\angle ABC = 60^\circ$. Choose a point $E$ on $AB$ such that $BE = 2 \times AE$. Also, let $F$ be the reflection of $E$ with respect to the center of the parallelogram. If $BF$ and $CE$ are perpendicular, which option is closer to the ratio of the smaller side to the larger side of the parallelogram?\\
+1) $\frac{2}{10}$ \quad 2) $\frac{3}{10}$ \quad 3) $\frac{4}{10}$ \quad 4) $\frac{5}{10}$ \quad 5) $\frac{6}{10}$
+\\
+25. Find the largest real number $k$ such that for all real numbers $a, b, c, d, e$:
+$$(a-b)^2 + (b-c)^2 + (c-d)^2 + (d-e)^2 + (e-a)^2 \geq k(b-d)^2$$
+\\
+26. For a finite subset $A$ of points in the plane and a real number $r > 0$, the set of points that are at a distance less than or equal to $r$ from at least one point of $A$ is denoted by $A_r$. How many of the following statements are true? (In all cases, $r$ and $s$ are positive real numbers and $A$ and $B$ are subsets of the plane.) 
+\begin{itemize}
+\item $(A_r)_s = A_{s+r}$.
+\item $A_r \subseteq B$ if and only if $A \subseteq B_r$.
+\item If for every $t > 0$, $A_t \subseteq B_t$, then $A \subseteq B$.
+\item $(A \cup B)_r = A_r \cup B_r$.
+\item If $A \cap B$ is finite, then $(A \cap B)_r = A_r \cap B_r$. 
+\end{itemize}
+\begin{enumerate}
+\item One
+\item Two
+\item Three
+\item Four
+\item Five
+\end{enumerate}
+27. In triangle $ABC$, we have $\angle B = 2\times\angle C$. The perpendicular bisector of side $BC$ intersects side $AC$ at point $D$, and the perpendicular bisector of $BD$ intersects side $AB$ at point $F$. Consider a circle whose center lies on line $FD$ and is tangent to side $AC$ and the extension of side $BC$ outside the triangle. If the area of triangle $ABC$ is nine times the area of triangle $AFD$ and $FO = 4$, what is the radius of the circle?
+
+1) $3 - \sqrt{3}$ 
+2) $3\sqrt{3}$ 
+3) $3 - \sqrt{2}$ 
+4) $3\sqrt{2}$
+5) $2\sqrt{6}$'
+\\
+28. Suppose $x, y, z$ are positive real numbers such that $x + y + z = 222$ and $xy + yz + zx = 12321$. If 
+$A = \min\{xy, yz, zx\}$, what is the maximum possible value of A?
+
+(1) 5476 \quad (2) 4107 \quad (3) 2412 (4) 1602 \quad (5) 1369
+\\
+29. We call a subset $A$ of $\{0, 1, 2, \ldots, 99\}$ "almost additive" if it has more than one element and, in addition, for any two distinct elements $a$ and $b$ from $A$, the remainder of the division of $a + b + 1$ by $100$ is also an element of $A$. How many almost additive subsets exist? 
+
+(1) 49 \quad (2) 99 \quad (3) 148 \quad (4) 155 \quad (5) 200
+\\
+30. The lines $AB$ and $CD$ intersect at point $P$ outside the circle $W$, such that $A$ is between $B$ and $P$ and $C$ is between $D$ and $P$. We know that $AB = 3 \times AP$. The perpendiculars from $C$ and $D$ to $AB$ are $H$ and $H'$ respectively, and the midpoint of segment $PB$ is $M$. If $\frac{CM}{CH} = 3$, what is the value of $\frac{DM}{DH'}$? 
+
+(1) $2 \sqrt{3}$ \quad (2) $3 \sqrt{3}$ \quad (3) $\sqrt{3}$ \quad (4) $\sqrt{6}$ \quad (5) $\frac{\sqrt{3}}{2}$
+
+\section{1396}
+1. In a village with a population of 1000 people, 200 people have contracted a certain disease. A test can diagnose the disease, but it has an error rate, meaning it incorrectly identifies a sick person as healthy with a probability of 5\% and a healthy person as sick with a probability of 5\%. A person is randomly selected from the people of this village and tested. What is the probability that the person is declared sick?
+\\
+2. A factory packages its products in cubic boxes and in the warehouse, every 512 boxes are connected together in the shape of a cube $8 \times 8 \times 8$. When the air temperature exceeds a certain limit, it is necessary to separate this set of 212 boxes with horizontal and vertical planes so that each box has at least one face that is not in contact with the faces of other boxes. What is the minimum number of planes required to achieve such a situation?
+\\
+3. How many eight-digit numbers in base four, using the digits 1, 2, and 3, are divisible by 3?
+\\
+4. We have five points in the plane, no three of which are collinear. We have drawn all the line segments whose endpoints are these points. What is the minimum number of new points created at the intersections of these line segments?\\
+1) 0 \quad 2) 1 \quad 3) 2 \quad 4) 1 \quad 5) 5
+\\
+5. There are 128 chairs arranged in a circle around a traditional gym. The first spectator who enters the gym sits on chair number 1. Since a cold is spreading in the city, each person who enters sits on a chair that is as far away as possible from the nearest occupied chair. If there are multiple chairs with this property, they choose the one with the smallest number. On which chair does the 39-th person sit?
+\\
+6. A natural number $n$, is the smallest number such that the remainder of $3n + 45$ divided by $1060$ is $16$. What is the remainder of $17 + 18n$ divided by $1920$?
+\\
+7. What is the area enclosed between the graph of the function 
+$y = \lfloor 10x \rfloor + \sqrt{1-x^2}$ in the interval $[0, 1]$ and the x-axis? (By $\lfloor t \rfloor$, we mean the greatest integer less than or equal to $t$.)
+\\
+8. The main number of a car license plate consists of a two-digit number on the left, one of the alphabet letters in the middle, and a three-digit number on the right. The digit zero is not used in these two numbers. To each plate, we assign the product of the two numbers mentioned. For example, to the plate $12b365$, we assign the number $12 \times 365 = 4380$. What is the average of the numbers assigned to all possible plates?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1396/8.png}
+    \caption{Caption}
+    \label{fig:1396:8}
+\end{figure}
+\\
+9. A section of the Litian forest park, located between two roads, has caught fire. The fire spreads at a speed of 10 kilometers per hour. If the distance from the starting point of the fire to each of the two roads is 10 kilometers, what is the area of the burned region in square kilometers after 2 hours? (Consider the roads as long, straight, and parallel lines, and assume the fire does not cross the roads).\\
+1) \(200 \sqrt{3}\) 
+2) \(100 \sqrt{3}\) 
+3) \(400 \sqrt{3} + 400 \frac{\pi}{3}\) 
+4) \(200 \sqrt{3} + 400 \frac{\pi}{3}\) 
+5) \(400 \sqrt{3}\) 
+\\
+10. Consider triangle $ABC$  where  $AB = AC = 15$  and  $BC = 18$.  Choose points  $D$  and  $E$  on  $CA$  and  $CB$  respectively such that  $CD = 5$  and  $CE = 3$.  Consider point  $F$  on the ray  $DE$  such that  $EF = 8$.  Let  $M$  be the midpoint of  $AB$  and  $N$  be the intersection of  $FM$  with  $BC$.  What is the length of  $CN$?
+\\
+11. According to the regulations, buildings on one side of a street should not have more than 9 floors. Additionally, if the number of floors of two buildings, regardless of the distance between them, is the same, there must be a building with more floors than those two between them. What is the maximum number of buildings that can be constructed on one side of the street?
+\\
+12. How many triples $(a, b, c)$ of natural numbers strictly less than 51 do we have such that $a+b+c$ is divisible by $a$, $b$, and $c$?
+\\
+13. A person wants to build an area next to the garden wall to keep his chickens and roosters. He has three fences, each 10 meters long. Using the garden wall, which is straight and long, and these three fences, what is the maximum area he can enclose in square meters?\\
+1) $100$ \quad 
+2) $50+25\sqrt{3}$ \quad 
+3) $50+50\sqrt{2}$ \quad 
+4) $75\sqrt{3}$ \quad 
+5) $300$
+\\
+14. For how many integer values of  k  does the following system of equations have a non-zero solution  $(a, b, c)$  in real numbers?
+\[
+\begin{cases}
+    b^2 + kc = a^2 + b\\
+    b^2 + c = ka^2 + b + c\\
+    c^2 + a = kb^2 + c\\
+\end{cases}
+\]
+1) $0$ \quad 2) $1$ \quad 3) $2$ \quad 4) $3$ \quad 5) infinity.
+\\
+15. Suppose $a_1, a_2, \ldots, a_{20}$ are the numbers from 1 to 20 written in an arbitrary order. How many different values can the expression $a_1 - a_2 + a_3 - \cdots + a_{20}$ take?
+\\
+16. A subset of real numbers has the property that for any two distinct members of it, such as $x$ and $y$, we have 
+$(x+y-1)^2 = xy + 1$.
+What is the maximum number of members this set can have?\\
+1) 1 2) 2 3) 3 4) 4 5) Infinity.
+\\
+17. Two natural numbers $m$ and $n$ are less than 500, and 
+$[m, n] = (m - n)^2$. What is the maximum value of $m + n$? ($[m, n]$ is the least common multiple of $m$ and $n$)
+\\
+18. Three rods with lengths 1396, 1439, and 2018 millimeters are placed on the ground joined at one end. What is the minimum possible radius of a circle that passes through the other three ends of the rods, in millimeters?
+\\
+19. Suppose $x\ge y \ge z$ are positive real numbers such that 
+$$x^2 + y^2 + z^2 \ge 2xy + 2yz + 2zx$$
+What is the minimum value of $\frac{x}{z}$?\\
+1) $\sqrt{1}$ 2) $\sqrt{2}$ 3) $\sqrt{3}$ 4) $\sqrt{2}$ 5) $\sqrt{4}$
+\\
+20. In the cyclic quadrilateral $ABCD$, we have $\angle B = 110^\circ$. Let $E$ be the intersection of $AD$ and $BC$, and $F$ be the intersection of $AB$ and $CD$. If the perpendiculars from $E$ to $AB$ and from $F$ to $BC$ intersect each other on the circumcircle of the quadrilateral at point $P$, what is the measure of angle $\angle PDF$ in degrees?
+\\
+21. Point $P$ is an interior point of an equilateral triangle $ABC$ and is located on side $AB$. We denote the reflection of $P$ with respect to $AB$ as $K$, the reflection of $K$ with respect to $BC$ as $M$, and the reflection of $M$ with respect to $AC$ as $N$. What is the maximum length of $NP$?\\
+1) $2\sqrt{3}$ \quad 
+2) $\sqrt{3}$ \quad 
+3) $\frac{\sqrt{3}}{2}$ \quad 
+4) $3$ \quad 
+5) $1$
+\\
+22. We have eight identical tiles, each consisting of one red square and one blue square. In how many ways can a $4 \times 4$ area be covered with these tiles such that each row and each column contains two red squares and two blue squares?
+\\
+23. Parvaneh bought a compass and after opening its package, she noticed that the length of the needle rod is 10 centimeters and the length of the pencil rod is 10 centimeters! Assume that in order to draw a circle with this compass, the angle of the pencil with the paper must be at least 30 degrees, but the needle can have any angle with the paper surface. The difference between the radius of the largest circle and the radius of the smallest circle that can be drawn with this compass, in centimeters, is closest to which option?\\
+1) 6 \quad 2) 7 \quad 3) 10 \quad 4) 12 \quad 5) 20
+\\
+24. The sequence $\{a_n\}$ is defined by the following formula: 
+$$a_n = \sqrt{1+(1+\frac{1}{n})^2} + \sqrt{1+(1-\frac{1}{n})^2}$$
+What is the value of the following expression? 
+$$\frac{4}{a_1} + \frac{4}{a_2} + \cdots + \frac{4}{a_{96}}$$
+1) $\sqrt{18241}$ \quad 
+2) $\sqrt{18625} - 1$ \quad 
+3) $\sqrt{18625}$ \quad 
+4) $\sqrt{19013} - 1$ \quad 
+5) $\sqrt{19013}$
+\\
+25. Scientists have discovered a small planet with a radius of 30 kilometers, entirely covered with water. A spherical meteorite collides with this planet and completely sinks into the water, causing the water level on the planet's surface to increase by one centimeter. What is the radius of the meteorite in meters?
+
+\section{1397}
+1. How many integers are included in the domain of the following function?  
+\[ f(x) = \sqrt[4]{-1 + \sqrt[3]{-1 + \sqrt{\frac{12}{x^2 - 2x}}}} \]
+\\
+2. We have 1397 real numbers that form an arithmetic progression. If we denote the number of rational numbers among these 1397 numbers by $n$, how many different possible values can $n$ take?
+\\
+3. What is the sum of the digits of the number 
+$99\ldots9_{\text{(97 times)}} \times 66\ldots6_{\text{(97 times)}}$?
+\\
+4. We want to tile a $3 \times 3$ grid using the two types of tiles below, such that a black path does not form from one side of the grid to the opposite side. How many desirable tiling configurations are there?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/4.png}
+    \caption{Caption}
+    \label{fig:1397:4}
+\end{figure}\\
+1) 338 \quad 2) 174 \quad 3) 169 \quad 4) 343 \quad 5) 512
+\\
+5. How many two-digit natural numbers do we have that do not contain the digit zero and are divisible by both of their digits?
+\\
+6. In the figure below, the intersection of $EB$ with $AC$ is called $G$. The angle between the extensions of line segments $AE$ and $BD$ is $70$ degrees, and the angle between the extensions of line segments $DA$ and $CB$ is $10$ degrees. If the angles $\angle AGB$ and $\angle BKE$ are $95$ and $70$ degrees respectively, find the value of $x$.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/6.png}
+    \caption{Caption}
+    \label{fig:1397:6}
+\end{figure}
+\\
+7. In how many permutations $a_1, a_2, \ldots, a_{13}$ of the numbers 1 to 13 do the following conditions hold?
+\[ a_1, a_2 < a_3 \]
+\[ a_4, a_5 < a_6 \]
+\[ a_3, a_6 < a_7 \]
+\[ a_7 < a_8, a_9 \]
+\[ a_8 < a_{10}, a_{11} \]
+\[ a_9 < a_{12}, a_{13} \]
+\\
+8. In triangle $ABC$, consider point $M$ on side $AC$ such that $CM = 2AM$. The internal angle bisector of $\angle A$ intersects line segment $BC$ at point $D$. Assume that $AD$ is perpendicular to line $BM$. How many times is the area of triangle $ABC$ compared to the area of triangle $BMD$?
+\\
+9. How many solutions does the following equation have in the set of real numbers? (The integer part of the number $x$ is denoted by $[x]$.)  
+$$[x](x-1)=2|x|$$  
+1) 2 \quad 2) 3 \quad 3) 4 \quad 4) 5 \quad 5) Infinite
+\\
+10. We have $n$ natural numbers such that the difference between any two of them is a prime number. What is the maximum value of $n$?
+\\
+11. The vertices of a pentagon (convex or concave) with an area of 7 are located on points with integer coordinates in the coordinate plane. What is the maximum number of points with integer coordinates that can be inside this polygon? (Points on the boundary are not considered interior points.)\\
+1) 6 \quad 2) 2 \quad 3) 3 \quad 4) 4 \quad 5) 5
+\\
+12. From the set $\{1, 2, \ldots, 765\}$, what is the maximum number of elements that can be selected such that none of them are perfect squares and the sum of no two of them equals 765? 
+\\
+13. For how many values of $a$ from the set $\left\{-\frac{5}{5}, -\frac{4}{5}, \ldots, \frac{4}{5}, \frac{5}{5}\right\}$ is the function $f(x) = ax - \lfloor x \rfloor$ one-to-one?
+\\
+14. If $S(n)$ is the sum of the digits of the number $n$, and $P(n)$ is the product of the digits of $n$, how many different natural numbers $n$ can be found such that: 
+\[ S(n) + P(n) = n \]
+\\
+15. In the rectangle shown, \( M \) is the midpoint of side \( AD \). Consider a circle inside the rectangle such that it is tangent to the line segments \( BC \), \( DC \), and \( MB \). Let the point of tangency with the line segment \( MB \) be called \( P \). If \( MP = AD \), what is the ratio of the length to the width of the rectangle?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/15.png}
+    \caption{Caption}
+    \label{fig:1397:15}
+\end{figure}\\
+1) \(\frac{5}{4}\) \quad 2) 2 \quad 3) \(\frac{3}{2}\) \quad 4) \(\frac{5}{2}\) \quad 5) 3
+\\
+16. In a security operation, 5 people have been arrested. Some of them are guilty and some are innocent. We know that guilty individuals always lie and innocent individuals always tell the truth. If these 5 people have said the following statements, how many guilty individuals are there exactly?
+\begin{itemize}
+    \item First person: At least two of us are innocent.
+    \item Second person: At least two of us are guilty.
+    \item Third person: Everyone is innocent.
+    \item Fourth person: Exactly one of us is guilty.
+    \item Fifth person: Exactly one of us is innocent.
+\end{itemize}
+1) 1 \quad 2) 2 \quad 3) 3 \quad 4) 4 \quad 5) 5
+\\
+17. The figure shown is part of the graph of which of the following options?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1397/17.png}
+    \caption{Caption}
+    \label{fig:1397:17}
+\end{figure}\\
+1) $x^x$ \quad 
+2) $(\cos(x))^x$ \quad 
+3) $(\sin(x))^x$ \quad 
+4) $(\sin(x))^{\sin x}$ \quad 
+5) $x^{\sin(x)}$
+\\
+18. In the right triangle $ABC$, angle $B$ is a right angle, and points $M$ and $N$ are chosen on segments $AC$ and $AB$, respectively, such that $MN$ is perpendicular to $AC$. The intersection of the extension of $MN$ with the extension of side $BC$ is called $P$. It is known that $PN$ is equal to $MN$. Suppose $O$ is the midpoint of side $AC$. If the lengths of $MN$ and $ON$ are 20 and 21 centimeters, respectively, find the length of the hypotenuse of the right triangle $ABC$.
+\\
+19. How many sequences of natural numbers, such as $(a_n)_{n \in \mathbb{N}}$, exist that have both of the following properties?
+\begin{itemize}
+    \item $a_{n+1} = \frac{a_{n}^2}{a_{n-1}} \quad (n \geq 2)$
+    \item $a_3 = 54000$
+\end{itemize}
+20. In the combinatorics class, Ava wrote all the non-empty subsets of the set $\{1, 2, \ldots, 1397\}$. She then replaces each subset with the average of its elements. What is the average of the numbers written on the board?
+\\
+21. How many ordered pairs of real numbers $(a, b)$ exist such that: 
+\[
+\begin{cases} 
+(a+b)^3 = 2(a-b) \\
+3(a-b)^2 = 4ab 
+\end{cases}
+\]
+
+1) 0 \quad 2) 1 \quad 3) 2 \quad 4) 3 \quad 5) Infinite
+\\
+22. Inside the isosceles triangle $ABC$ ($AB = AC$), point $P$ is given. The feet of the perpendiculars from $P$ to the sides $AB$, $AC$, and $BC$ are denoted by $X$, $Y$, and $Z$, respectively. We know that the measures of angles $\angle BAC$ and $\angle XZY$ are $40^\circ$ and $70^\circ$, respectively. If $PX = 2PY = 4$, what is the length of $PZ$?\\
+1) \(\sqrt{3}\) \quad 
+2) \(\sqrt{2}\) \quad 
+3) 2 \quad 
+4) \(\sqrt{6}\) \quad 
+5) \(2\sqrt{2}\)
+\\
+23. The Faculty of Mathematical Sciences at Shekarestan University has a number of professors who are numbered 1, 2, 3, and so on, in alphabetical order. The dean of the faculty has asked the professors to create a code for themselves consisting of the first four numbers. Professor number $n$ should consider the numbers $n+1$, $n+2$, $n+3$, and $n+4$, and then replace each of these four numbers with one of its prime factors at will. For example, if a professor's number is 53, they should consider the numbers 54, 55, 56, and 57, and they can choose this code: 3, 5, 7, and 3 (they have other choices as well). We know that no matter how the professors choose their codes, no two professors will have the same code. What is the maximum number of professors this faculty can have?
+\\
+24. For real numbers \( a \) and \( b \), we know \( a \in [0,3] \) and \( b \in [1,2] \). We denote the minimum and maximum values of the expression \( a^2 - ab + b^2 \) as \( m \) and \( M \), respectively. What is the integer part of \( [4(M-m)] \)?
+\\
+25. How many increasing functions $f: \{1,2,3,4,5,6\} \to \{1,2,3,4,5,6\}$ do we have, such that for each $1 \leq i \leq 6$ we have $$|f(i) - i| \leq 1$$
+1) 144 \quad 2) 164 \quad 3) 89 \quad 4) 324 \quad 5) 128
+
+\section{1398}
+1. How many natural numbers with a maximum of six digits exist using the digits 0 and 1 that are divisible by 11?\\
+1) 8  2) 9  3) 10  4) 18  5) 19  
+\\
+2. Find the number of correct solutions to the following equation:  
+$ (x^2 + 5x + 5)^{(x^2 -10x + 21)} = 1 $
+\\
+3. $ABCD$ is a square with side length $\sqrt{2}$. Circle $t$ has a radius of $2$ and its center (point $O$) is on line $CD$ with $D$ between $C$ and $O$. Circle $k$ passes through vertex $A$ and its center is on the extension of line segment $CA$ from $A$. It is tangent to circle $t$ at point $P$, such that points $P$, $A$, and $B$ are on the same side of line $CD$. What is the radius of circle $k$?
+
+1) $1$ \quad 
+2) $\sqrt{2}-1$ \quad 
+3) $\sqrt{2}$ \quad 
+4) $\frac{\sqrt{2}-1}{2}$ \quad 
+5) $1- \frac{\sqrt{2}}{2}$
+\\
+4. A school in Shekrestan has 12 students. Some of these students have formed a number of clubs together. We know that one person can be a member of more than one club. Some of the clubs have 3 members, and the rest have 4 members. We know that any two students are members of exactly one of these clubs together. If the number of clubs in this school is 13, how many of these clubs have 3 members?\\
+1) 1  2) 2  3) 3  4) 4  5) 5
+\\
+5. We call a natural number $a$ "interesting" if there exist natural numbers $x$ and $y$ (not necessarily distinct) such that $a = x^2y^3$. How many interesting divisors does $9!$ have? 
+\\
+6. For the function $f: \mathbb{R} \to \mathbb{R}$, we know that the graph of $f(\sin(x))$ is as follows.\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1398/6-0.png}
+    \caption{Caption}
+    \label{fig:1398:6-0}
+\end{figure}\\
+Which of the following options can be a part of the graph of the function $f(x)$?\\
+1)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1398/6-1.png}
+    \caption{Caption}
+    \label{fig:1398:6-1}
+\end{figure}\\
+2)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1398/6-2.png}
+    \caption{Caption}
+    \label{fig:1398:6-2}
+\end{figure}\\
+3)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1398/6-3.png}
+    \caption{Caption}
+    \label{fig:1398:6-3}
+\end{figure}\\
+4)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1398/6-4.png}
+    \caption{Caption}
+    \label{fig:1398:6-4}
+\end{figure}\\
+5)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1398/6-5.png}
+    \caption{Caption}
+    \label{fig:1398:6-5}
+\end{figure}
+\\
+7. In the parallelogram  $ABCD$,  the angle  $\angle BAD$  is acute. The bisector of the angle  $\angle BAD$  intersects the line segment  $DC$  at  $E$.  If  $ABED$  is a cyclic quadrilateral and its circumcircle is tangent to the side  $BC$,  what is the measure of the angle  $\angle AED$  in degrees?
+\\
+8. Ali writes the numbers from 1 to 1398 in any order he wishes in a row. In each step, he erases two consecutive numbers and writes their difference between them. It is known that after 1397 steps, only one number remains on the board. What is the maximum value this number can be?
+\\
+9. We call a three-digit natural number "ordered" if, firstly, it is composed of three distinct non-zero digits, and secondly, considering any two consecutive digits, the right digit is divisible by the left digit. For example, the number 126 is an ordered number. How many three-digit ordered numbers exist?
+\\
+10. The king of the city of Falak al-Aflak wishes to reward the inventor of the chess game as he desires. The inventor asks the king to place \(i \times j\) silver coins on each black square located in the \(i\)-th row and \(j\)-th column, and at the end, the sum of the coins will be his reward. Given that the chessboard is \(8 \times 8\) and the square located in the 1st row and 1st column is black, how many silver coins will the chess inventor receive as a reward?
+\\
+11. Point $G$ is the centroid of triangle $ABC$ (the intersection of the medians of the triangle). We draw a line from $G$ parallel to $AB$ to intersect side $BC$ at $K$. Point $M$ is the midpoint of side $AB$, and the intersection of lines $AK$ and $CM$ is called $F$. If the area of triangle $KFM$ is equal to $3$ square centimeters, what is the area of triangle $ABC$ in square centimeters?
+\\
+12. The city of Mosallas is composed of several one-way streets as shown in the figure. The direction of each of the streets in this city is specified according to the direction shown in the figure. To travel each of these streets, one liter of gasoline is needed. Sepehr wants to drive his personal car, which has 9 liters of gasoline, through the streets of this city starting from A. In how many ways can he do this? (He may pass through the same city or street more than once during the journey.)\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1398/12.png}
+    \caption{Caption}
+    \label{fig:1398:12}
+\end{figure}
+\\
+13. Find the number of ordered triples $(x, y, z)$ of integers such that $0 \leq x \leq y \leq z \leq 1000$ and there exists a natural number $n$ such that $$(x+1)(y+1)(z+1)(x+y+z+2) = 2^n$$
+1) 8 2) 9 3) 10 4) 11 5) 12
+\\
+14. What is the coefficient of $x^{60}$ in the following polynomial?  
+$$(x-1)(x^2-1)(x^3-1)\cdots(x^{15}-1)$$
+\\
+15. An ant's nest is located in the middle of one of the edges of a unit cube. A piece of bread is placed in the middle of each of the other edges of the cube (except the location of the nest). If the ant wants to collect all the bread by moving on the lateral surface of the cube and finally return to its nest, what is the length of the shortest path it takes to complete this process?
+
+1) $2 + 5\sqrt{2}$ \quad 
+2) $6\sqrt{2}$ \quad 
+3) $12\sqrt{2}$ \quad 
+4) $1 + 4\sqrt{2}$ \quad 
+5) 12
+\\
+16. We have 12 lamps and 12 switches numbered from 1 to 12. By pressing switch number $k$, all lamps with numbers less than or equal to $k$ change their state. Initially, all lamps are off. In how many ways can a subset of 7 switches be chosen such that exactly 7 lamps are turned on?
+\\
+17. Find the number of four-member subsets of the set of real numbers such that, no matter how they are partitioned into two two-member groups, the product of the members of one group is equal to the sum of the members of the other group.\\
+1) 0 \quad 2) 1 \quad 3) 2 \quad 4) 42 \quad 5) Infinite
+\\
+18. Alice in Wonderland has been imprisoned by a malicious mathematician in a classroom. Alice must work on a mathematical puzzle for a week and at the end, tell the mathematician the answer, and she will only be freed if her answer is correct. The large classroom where Alice is imprisoned has a very large board on which the numbers $2, 3, 4, \ldots, 1000$ are initially written in order. On the $i$-th day, Alice must consider the $i$-th number written on the board as $a$, then divide each number on the board, denoted as $b$, by the greatest common divisor of that number and $a$, and write the result in place of $b$ on the board (for example, at the end of the first day, the numbers on the board become $1, 3, 2, 5, 3, \ldots 999, 500$). The answer to the puzzle is the number of ones written on the board at the end of the seventh day (for example, at the end of the first day, there is one number 1 on the board). If you were with Alice, could you quickly calculate the final answer and save Alice? If so, enter the answer in the answer sheet.
+\\
+19. In the given figure, two circles intersect at points $P$ and $Q$. Circle $\omega$ is centered at $P$ and intersects the other two circles at points $A$, $B$, $C$, and $D$. If the angle $\angle BQC$ is $50^\circ$ and the angle $\angle CQD$ is $20^\circ$, what is the measure of the angle $\angle ADC$?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1398/19.png}
+    \caption{Caption}
+    \label{fig:1398:19}
+\end{figure}
+\\
+20. Omid has written the numbers $0$, $1$, and $-1$ on the vertices of a regular $1398$-gon (some of these numbers may not be used). Each number on a vertex is either the average or the sum of the numbers on its two adjacent vertices (some vertices may be the average, and others the sum of the two adjacent vertices). How many different possible sums of the numbers on all the vertices of this $1398$-gon can there be?\\
+1) $1395$  2) $1397$  3) $1399$  4) $2795$  5) $2797$
+\\
+21. Find the number of three-digit natural numbers such that the two rightmost digits of their square are equal to the two rightmost digits of the number itself. (For example, 225, where the two rightmost digits of its square, 50625, are equal to the two rightmost digits of 225.)
+\\
+22. For the real number $x$, what is the minimum value of the following expression?
+\[ \sqrt{x^2 + 4x + 8} + \sqrt{x^2 - 6x + 10} \]
+
+1) $2 + \sqrt{5}$ \quad
+2) $4\sqrt{2}$ \quad
+3) $\sqrt{34}$ \quad
+4) $\sqrt{5} + \sqrt{13}$ \quad
+5) $\sqrt{8} + \sqrt{10}$
+\\
+23. Circle $\omega_1$ is given with center $O$. Chord $AB$ is chosen from circle $\omega_1$ such that circle $\omega_2$, with diameter $AB$, passes through $O$. Point $C$ is located on line $AB$ such that angle $\angle BCO$ is equal to $30$ degrees (point $B$ is between points $C$ and $A$). Line segment $OC$ intersects circle $\omega_2$ for the second time at $K$. Point $D$ is located on circle $\omega_1$ such that $CD$ is tangent to circle $\omega_1$ and points $D$ and $O$ are on the same side of line $AB$. If the length of line segment $DK$ is equal to $3\sqrt{2}$, what is the length of line segment $CD$?
+\\
+24. In each cell of a $3 \times 4$ table, there is a person sitting. Each of these individuals is either a truth-teller, who always tells the truth, or a liar, who always lies. At one moment, each of these 21 people said: "The number of truth-tellers in my row is equal to the number of truth-tellers in my column." What is the maximum number of these individuals that can be liars?
+\\
+25. How many sets of real solutions does the following system have?  
+\[
+\begin{cases} 
+a + b + c = 1 \\ 
+a^3 = bc(a + 1) \\ 
+b^3 = ac(b + 1) \\ 
+c^3 = ba(c + 1) 
+\end{cases}
+\]
+
+\section{1399}
+1. We call two natural numbers a "lucky pair" if the number of their digits is equal and the order of their digits is completely reversed (for example, 132 and 231 are a lucky pair). How many three-digit lucky pairs exist such that their difference is 7 times a natural number?
+\\
+2. How many solutions does the following equation have in positive real numbers?  
+\[ x^{\left\lfloor x \right\rfloor} = \left\lfloor x \right\rfloor + x \]  
+Note: \(\left\lfloor x \right\rfloor\) denotes the greatest integer less than or equal to \(x\).  
+\\
+3. In rectangle $ABCD$, we know that $AB = 3$ and $BC = 2$. A circle is tangent to the sides $AB$, $BC$, and $CD$. From point $D$, we draw a tangent to the circle, other than side $CD$, which intersects $AB$ at point $P$. What is the length of $DP$?\\ 
+1) $\frac{9}{4}$ \quad 2) $1 + \sqrt{2}$ \quad 3) $2\sqrt{2}$ \quad 4) $\sqrt{10} - 1$ \quad 5) $\frac{5}{2}$
+\\
+4. The cells of a $6 \times 6$ table are colored with 4 colors as shown below. In how many ways can you choose 6 cells from this table such that 3 of them are of one color and 3 are of another color, and no two of them are in the same row or column?
+\[
+\begin{array}{cccccc}
+2 & 1 & 2 & 1 & 2 & 1 \\
+4 & 3 & 4 & 3 & 4 & 3 \\
+2 & 1 & 2 & 1 & 2 & 1 \\
+4 & 3 & 4 & 3 & 4 & 3 \\
+2 & 1 & 2 & 1 & 2 & 1 \\
+4 & 3 & 4 & 3 & 4 & 3 \\
+\end{array}
+\]
+5. We want to write numbers from the set $\{1, 2, \ldots, 6\}$ on each vertex of a shape like the one below, such that for every arrow going from a vertex labeled with the number $x$ to a vertex labeled with the number $y$, the expression $5x + y$ is divisible by 7. For example, consider the numbers on the vertices of the shape below:\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1399/5-0.png}
+    \caption{Caption}
+    \label{fig:1398:5-0}
+\end{figure}\\
+For instance, in the topmost arrow, $5 \times 3 + 6 = 21$ is divisible by 7. In how many of the shapes below can this be done?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1399/5-1.png}
+    \caption{Caption}
+    \label{fig:1398:5-1}
+\end{figure}
+\\
+6. How many ordered quadruples $(a, b, c, d)$ of integers satisfy the following system of equations?  
+\[
+a + b = c^2 + d^2, \quad c + d = a^2 + b^2
+\]
+1) 4 \quad 2) 6 \quad 3) 8 \quad 4) 10 \quad 5) Infinite
+\\
+7. What is the area of a polygon where the length of each side is equal to one centimeter and its internal angles are alternately $90^\circ$ and $225^\circ$? How many square centimeters is it?
+
+1) $2\sqrt{2} + 8$ \\
+2) $2\sqrt{2} + 6$ \\
+3) $2\sqrt{2} + 4$ \\
+4) $2\sqrt{2} + 6$ \\
+5) $16$
+\\
+8. In a bag, there are 6 red balls and 4 blue balls. 
+Mehdiar first completely covers his eyes with a blindfold. 
+Then, in the first step, he throws one of the balls out of the bag. 
+In the second step, he removes 5 balls from the bag and transfers them to a second bag. 
+In the third step, he throws one ball out of the second bag. 
+In the fourth step, he removes 2 balls from the second bag and transfers them to a third bag. 
+Then, he removes one ball from the third bag. What is the probability that the removed ball is red?\\
+1) $\frac{2}{5}$ \quad 
+2) $\frac{1}{2}$ \quad 
+3) $\frac{3}{5}$ \quad 
+4) $\frac{3}{4}$ \quad 
+5) $\frac{4}{5}$
+\\
+9. The sum of the digits of a natural number is equal to 18. Which one of the following options cannot be the number of natural divisors of this number? 
+\begin{enumerate}
+    \item 5
+    \item 6
+    \item 8
+    \item 24
+    \item 36
+\end{enumerate}
+10. Ali and Reza each choose a 3-term arithmetic sequence of positive real numbers and write it on their paper from left to right. Then, they place both papers side by side and compare the terms of the sequences one by one. They write the result as a sequence of the letters "B", "K", and "M" on the board from left to right. If the \(i\)-th term of Ali's sequence is greater than the \(i\)-th term of Reza's sequence, they write the letter "B"; if it is smaller, they write the letter "K"; and if they are equal, they write the letter "M" as the \(i\)-th term of the result sequence on the board. For example, if Ali's sequence is \(2, 3, 4\) and Reza's sequence is \(1, 4, 7\), the result sequence will be "K, K, B". How many of the following sequences of letters cannot be written as a result on the board?
+\begin{enumerate}
+    \item B K M
+    \item K K M
+    \item M B M
+    \item K M B
+    \item M B K
+    \item K M K
+    \item K B B
+    \item B B K
+\end{enumerate}
+11. We want to calculate the area of the Friendship Pond. The boundary of the Friendship Pond, as shown in the figure, is formed by six semicircles that pass through the vertices and midpoints of the sides of triangle $ABC$. If the lengths of the sides of triangle $ABC$ are $50$, $60$, and $70$ meters, what is the area of the Friendship Pond in square meters?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.2\linewidth]{figures/1399/11.png}
+    \caption{Caption}
+    \label{fig:1398:11}
+\end{figure}
+\begin{enumerate}
+    \item $1500$
+    \item $3000$
+    \item $300\sqrt{6}$
+    \item $600\sqrt{6}$
+    \item $360\pi$
+\end{enumerate}
+12. In how many ways can 6 cells be removed from a $3 \times 5$ grid such that the remaining cells do not form a shape similar to the following and its rotations?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1399/12.png}
+    \caption{Caption}
+    \label{fig:1399:12}
+\end{figure}\\
+1) 10  2) 12  3) 16  4) 20  5) 22
+\\
+13. \( n \) is a natural number. We know that \( n \) has at least three positive divisors. Let $d_1, d_2, \ldots, d_k$ be the divisors of $n$ such that $d_1 < d_2 < \ldots < d_k$. We have $d_{k-1} - d_{k-2} = 1399$. What is the largest possible value of $n$?
+\\
+14. How many ordered pairs $(x, y)$ of real numbers satisfy the following system of equations?
+\[
+\begin{cases} 
+2y^2 + 2y + 4x = x^2 + xy + 4 \\
+y^2 + 2x^2 + 2y = 5x + 3xy + 3 
+\end{cases}
+\]
+15. Circle $W_1$ with center $O$ and radius $4$ cm is internally tangent to circle $W_2$ at point $S$. The segment $AB$ of $W_2$ is tangent to circle $W_1$ at point $M$ . We know that triangle $OAB$ is isosceles. If angle $\angle AOB$ is $120^\circ$, what is the radius of circle $W_2$ in centimeters?
+\\
+16. We want to select a number of subsets with 10 elements from the set $S = \{1, 2, \ldots, 100\}$ such that starting from these selected subsets and applying union and intersection of sets, we can reach any desired subset of $S$. What is the minimum number of subsets we need to select?
+
+\section{1400}
+1. How many solutions does the following equation have in real numbers?  
+\[
+\left\lfloor x \right\rfloor 
++ 
+\left\lfloor -x \right\rfloor
+= 
+- (x - \frac{1}{2})^2
+\]
+Explanation: \(\left\lfloor x \right\rfloor\) denotes the greatest integer less than or equal to \(x\).  
+\\
+2. What is the maximum number of acute angles a convex 1400-gon can have?
+\\
+3. What is the maximum number of natural numbers less than 1000 that can be chosen such that the sum of any two of them, not necessarily distinct, is not divisible by 3?
+\\
+4. In a lottery for a loan from a home-based interest-free fund among oli, Rza, and Mhmd, the following procedure is used. First, the letters of each person's name are written on separate pieces of paper. For example, the letter "o" is written once and the letter "m" is written twice. Then, these 10 pieces of paper are placed inside a vase. Each time, one piece of paper is drawn from the vase. If with some of the letters drawn so far, we can form a person's name, that person is the winner; otherwise, another letter is drawn from the vase. For example, if the letters "h", "l", "a", "o", and "i" have been drawn so far, Ali is the winner. Which of the following options is correct?
+\begin{enumerate}
+    \item The lottery is fair and everyone has an equal chance of winning.
+    \item Ali's chance of winning is between 50\% and 60\%.
+    \item Reza's chance of winning is less than one-third.
+    \item Reza and Ali have an equal chance of winning.
+    \item Options 1 and 4 are correct.
+\end{enumerate}
+5. Four squares with side length 2 are placed next to each other as shown in the figure. A parabola passes through points $A$, $B$, and $C$ and intersects the $x$-axis at two points. What is the distance between the points of intersection?\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1400/5.png}
+    \caption{Caption}
+    \label{fig:1400:5}
+\end{figure}\\
+1) 7
+2) $2\sqrt{13}$
+3) $5\sqrt{2}$
+4) $3\sqrt{7}$
+5) 8
+\\
+6. For triangle $ABC$, we know that $AB > AC > BC$. The triangle is rotated $360^\circ$ around one of its sides to create a three-dimensional shape. Around which side does the rotation result in the greatest volume? 
+\begin{enumerate}
+    \item $AB$
+    \item $AC$
+    \item $BC$
+    \item Cannot be determined.
+    \item It is the same for all three sides.
+\end{enumerate}
+7. In how many ways can the subsets  $A$, $B$,  and  $C$  be chosen from the set  $\{1, 2, 3, \ldots, 10$  such that  $A \subseteq (B \cap C)$?\\
+1)  $5^10$ \quad 
+2)  $10^5$ \quad 
+3)  $4^10$ \quad 
+4)  $10^4$ \quad 
+5)  $3^10$
+\\
+8. How many 5-digit natural numbers exist such that the remainder when divided by each of the numbers 4, 5, and 18 is 3?
+\\
+9. The functions $f, g: \mathbb{R} \to \mathbb{R}$ are defined as follows: $f(x) = |x + 1| - 4$ and $g(x) = f(f(x))$. In this case, how many real solutions does the equation $f(x) = g(x)$ have?
+\\
+10. Triangle $ABC$ does not have an obtuse angle. We also know that $3 \angle ACB = \angle ABC$. The perpendicular bisector of side $BC$ intersects the internal bisector of angle $\angle ABC$ at point $P$. What is the maximum value of angle $\angle PCA$ in degrees?
+\\
+11. If two natural numbers $a$ and $b$ have at least three common divisors and their common divisors are $1 = d_1 < d_2 < d_3 < \ldots < d_k$, we define $D(a, b) = d_3$. For example, $D(40, 60) = 4$ because the common divisors of the numbers 40 and 60 are 1, 2, 4, 5, 10, 20. Which of the following options is correct? (In each option, assume $a$ and $b$ are any natural numbers with at least three common divisors.)\\
+\begin{enumerate}
+    \item $D(2a, 2b)$ is always an even number.
+    \item $D(10! + 20, 20! + 10) = 4$.
+    \item $D(a^2, b^2)$ is always a perfect square.
+    \item $D(2^{100} - 1, 3^{100} - 1) = 7$.
+    \item $D(a, b)$ has at most one prime factor.
+\end{enumerate}
+12. In how many ways can each cell of a $4 \times 4$ grid be colored black or white such that each cell shares a side with exactly two cells of a different color?
+\\
+13. If $a, b, c \in \mathbb{R}$ such that $abc = 10^{11}$ and also 
+$$\log(a) \log(bc) + \log(b) \log(ac) + \log(c) \log(ab) = 40$$
+find the value of $(\log(a))^2 + (\log(b))^2 + (\log(c))^2$.
+\\
+14. A paper with dimensions $6  cm \times 8  cm$ is folded several times as shown in the figure.\\
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{figures/1400/14.png}
+    \caption{Caption}
+    \label{fig:1400:14}
+\end{figure}\\
+What is the area of the resulting shape in square centimeters? 
+\begin{enumerate}
+    \item $39 - 9\sqrt{2}$
+    \item $38 - 8\sqrt{2}$
+    \item $37 - 7\sqrt{2}$
+    \item $36 - 6\sqrt{2}$
+    \item $35 - 5\sqrt{2}$
+\end{enumerate}
+15. Find the number of ordered triples $(a, b, c)$ of natural numbers less than 100 such that the units digit of the product $a \times b \times c$ is equal to 3.\\
+1) 1000  2) 5000  3) 8000  4) 15000  5) 16000
+\\
+16. There are 16 unlit lamps in the cells of a $4 \times 4$ grid. For each $2 \times 2$ square in this grid, there is a switch that, when pressed, changes the state of the 4 lamps within this square and does not change the state of any other lamp. By pressing any number of these switches, how many different patterns of lamps in this grid can we obtain?
+\\
+17. Three new banks have opened in Shekarestan. The first bank deposits an interest of $20\%$ of the account balance at the end of each year. The second bank doubles the account balance at the end of every 5 years. The third bank adds $\frac{5}{2}\times n$ of the account balance at the end of the $n$-th year. Omid wants to save his money in one of the banks for 20 years without touching the interest. In which bank will the investment yield the highest return?
+\begin{enumerate}
+    \item The first bank
+    \item The second bank
+    \item The third bank
+    \item It makes no difference.
+    \item It depends on Omid's initial capital.
+\end{enumerate}
+18. A number $n \geq 3$ is called interesting if it is possible to choose $n$ distinct points on the perimeter of a square such that they form the vertices of a regular $n$-gon. What is the sum of all interesting numbers?
+\\
+19. How many natural numbers $n$ are there such that there exist numbers $a, b \in \mathbb{N}$ for which 
+$$2^{n} + n^a = 32n^b$$
+\\
+20. In an 8-story building, no floor is unoccupied. Two residents of this building are called neighbors if they reside on the same floor or on two adjacent floors. We know that each resident of this building is a neighbor to 6 or 10 other people. If the number of residents in this building is equal to $n$, for how many values of $n$ is this possible?
+\\
+21. Suppose $x \in \left(-\frac{\pi}{2}, \frac{\pi}{2}\right)$ and $y \in \left(0, \frac{\pi}{6}\right)$, and we know $\tan(x) = \cot(y)$ and $\cos(\pi \times \cos(x)) = \sin(\pi \times \sin(y))$. What is the numerical value of $\frac{1}{\cos(x)}$?
+\\
+22. A square with side length 1 is given. A point like \( G \) inside this square is called "balanced" if there exist three points \( A \), \( B \), and \( C \) inside or on the boundary of this square that form a triangle with area \(\frac{1}{2}\) and the centroid of that triangle coincides with \( G \). What shape does the set of all balanced points form? 
+(The centroid of a triangle is the intersection point of its three medians.)
+\begin{enumerate}
+    \item Points on the boundary of a square with sides parallel to the sides of the original square
+    \item Points on the boundary or inside a square with sides parallel to the sides of the original square
+    \item Points on the boundary of a square with sides parallel to the diagonals of the original square
+    \item Points on the boundary or inside a square with sides parallel to the diagonals of the original square
+    \item Points on the boundary of a circle centered at the intersection of the diagonals of the original square
+\end{enumerate}
+23. Initially, a natural number is written on the board. In the next step, we first multiply it by the smallest possible natural number to make it a perfect square, and then we write its square root on the board instead of the initial number. We repeat this process on the new number and replace the previous numbers with the new ones. How many three-digit natural numbers can be transformed into the number 10 by performing the above operation at most four times? For example, if the number 24 is initially written, it is replaced by the number 12 because the smallest perfect square multiple of 24 is 144, and its square root is 12.
+\\
+24. A dice is rolled three times to obtain three numbers \(a\), \(b\), and \(c\). In how many ways can a triangle be formed with three line segments of these lengths?
+\\
+25. We define the number $A$ as follows. What is the second digit to the right of the decimal point in the number $A$?  
+$$A= \frac{202}{100^2} + \frac{204}{101^2} + \frac{206}{102^2} +\cdots + \frac{402}{200^2}$$
