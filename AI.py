@@ -15,7 +15,7 @@ class AI:
 
     def __init_translation_chain(self):
         translation_prompt = ChatPromptTemplate([
-            ("system", "You are a math teacher who specializes in mathematical olympiad. You are asked to translate the given questions to you by the user to polite english. Just translate the text and do not add anything to it. Print the output in LaTeX and put the equations between dollar signs. Return only the LaTeX."),
+            ("system", "You are a math teacher who specializes in mathematical olympiad. You are asked to translate the given questions to you by the user to polite english. Just translate the text and do not add anything to it. Print the output in LaTeX and put the equations between dollar signs. Only return the LaTeX code."),
             ("human", "Translate the question below from persian to english.\n\nquestion:\n>>>>>>>>>>\n{question}\n<<<<<<<<<")
         ])
         self.translation_chain = translation_prompt | self.llm | StrOutputParser()
